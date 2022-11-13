@@ -1900,6 +1900,15 @@ html .group-middle > * {
 } */
 
 
+.background-ac img {
+	width: 100vw;
+	height: auto;
+}
+.service-link a:link, a:active ,  a:hover, a:visited p
+{
+color: #000000;
+	text-decoration: none;
+}
 
 .all-service {
 	box-sizing: border-box;
@@ -1911,9 +1920,6 @@ html .group-middle > * {
 	border-radius: 10px;
 	/* margin: 10px; */
 	text-align: center;
-	
-
-
 }
 .wt-box, .wt-info, .wt-tilte, .wt-tilte-inner {
     position: relative;
@@ -6589,7 +6595,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-dropdown-item.focus .rd-dropdown-link, .rd-navbar-static .rd-dropdown-item.opened .rd-dropdown-link {
-	color: #c8a4a8;
+	color: #a3185f;
 }
 
 .rd-navbar-static .rd-dropdown-link {
@@ -6597,7 +6603,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-dropdown-link:hover {
-	color: #c8a4a8;
+	color: #a3185f;
 }
 
 .rd-navbar-static .rd-navbar-dropdown li > a,
