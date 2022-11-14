@@ -1,10 +1,13 @@
-<!-- Page Title--><!DOCTYPE html>
+<!-- Page Title-->
+<!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
+  
 <head>
-  <title>Holistic Healing Therapies in Preet Vihar, Delhi | Contact Now </title>
-  <meta content="Holistic Healing Therapies at Gandharva wellness Center. We offer modern and ancient practices for healing the human body, mind and soul. Keep your mind and body in the best state with healing therapies." name="description" />
-  <meta content="holistic healing therapies services" name="keywords" />
-  <link rel="canonical" href="https://gandharvawellness.com/holistic-healing-therapies.html" />
+  <title>Professional Beauty Salon Services in Preet Vihar, Delhi </title>
+  <meta content="Get great salon products and equipment designed for professional use at Gandharva Wellness Studio. Contact us to take advantage of our fascinating pricing today.
+" name="description" />
+  <meta content="salon services, professional salon services" name="keywords" />
+  <link rel="canonical" href="https://gandharvawellness.com/salon-services.html" />
   <meta name="robots" content="noindex, nofollow,all" />
   <meta name="author" content="Gandharva"/>
   <meta name="copyright" content="Gandharva" />
@@ -24,133 +27,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.0.96/css/materialdesignicons.min.css">
 </head>
 <body>
-<div class="preloader">
+<!-- <div class="preloader">
   <div class="preloader-body">
     <div class="cssload-squeeze"> <span></span><span></span><span></span><span></span><span></span></div>
   </div>
-</div>
+</div> -->
 <div class="page"> 
-  <!-- Page Header-->
-  <header class="section page-header"> 
-    <!-- RD Navbar-->
-    <div class="rd-navbar-wrap">
-      <nav class="rd-navbar rd-navbar-classic rd-navbar-classic-center" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-        <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
-        <div class="rd-navbar-aside-outer rd-navbar-collapse">
-          <div class="rd-navbar-aside">
-            <div class="header-info">
-              <ul class="list-inline list-inline-md">
-                <li>
-                  <div class="unit unit-spacing-xs align-items-center">
-                    <div class="unit-left font-weight-bold">Call Us:</div>
-                    <div class="unit-body"><a href="tel:#">(073) 123-12-12</a></div>
-                  </div>
-                </li>
-                <li>
-                  <div class="unit unit-spacing-xs align-items-center">
-                    <div class="unit-left font-weight-bold">Opening Hours:</div>
-                    <div class="unit-body"> Mn-Fr: 10 am-8 pm</div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="social-block">
-              <ul class="list-inline">
-                <li><a class="icon fa-facebook" href="#"></a></li>
-                <li><a class="icon fa-twitter" href="#"></a></li>
-                <li><a class="icon fa-google-plus" href="#"></a></li>
-                <li><a class="icon fa-vimeo" href="#"></a></li>
-                <li><a class="icon fa-youtube" href="#"></a></li>
-                <li><a class="icon fa-pinterest-p" href="#"></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="rd-navbar-main-outer">
-          <div class="rd-navbar-main"> 
-            <!-- RD Navbar Panel-->
-            <div class="rd-navbar-panel"> 
-              <!-- RD Navbar Toggle-->
-              <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-              <!-- RD Navbar Brand-->
-              <div class="rd-navbar-brand"><a href="index.html"><img src="images/gandharva_logo.png" alt="" /></a></div>
-            </div>
-            <div class="rd-navbar-main-element">
-              <div class="rd-navbar-nav-wrap">
-                <ul class="rd-navbar-nav">
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Home</a></li>
-                  <li class="rd-nav-item active"><a class="rd-nav-link" href="#">About Us</a>
-                    <ul class="rd-menu rd-navbar-dropdown">
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Our Team</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Our Philosophy</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Our Partners</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">About the Architect</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Sustainability</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Gallery</a></li>
-                    </ul>
-                  </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="#">Experiences</a>
-                    <ul class="rd-menu rd-navbar-dropdown">
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">All Experiences</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Fitness & Recreation</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Countryside Getaway</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Signature Dining</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Art at Dwaar</a></li>
-                      
-                    </ul>
-                  </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="#">Programmes</a>
-                    <ul class="rd-menu rd-navbar-dropdown">
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">All Treatments</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Panchakarma</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Weight Management</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Vedic Acupressure Kayakalpa Treatment</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Vedic Healing</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Pain Management</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Weekend Detox</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Vedic Acupressure Full Body Detox</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Vedic Acupressure Shuddhi Treatment</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Revive package</a></li>
-                    </ul>
-                  </li>
-                  
-                  <li class="rd-nav-brand logos"><a href="index.html"><img src="images/gandharva_logo.png" alt="" /></a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="#">Events </a> 
-                    <!-- RD Navbar Dropdown-->
-                    <ul class="rd-menu rd-navbar-dropdown">
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href=""> All Events</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href=""> Personal</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Corporate</a></li>
-                     
-                    </ul>
-                  </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="#">Accommodation </a> 
-                    <!-- RD Navbar Dropdown-->
-                    <ul class="rd-menu rd-navbar-dropdown">
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">All Rooms</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href=""> Suite</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Premium Room</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Herbal Garden Room</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Grand Garden Room</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Ayurvedic Garden Room</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Ayurvedic Suite</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Gher Villa</a></li>
-                    </ul>
-                  </li>
-                 <li class="rd-nav-item"><a class="rd-nav-link" href="contact_us.html">Contacts</a></li>
-               
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </div>
-  </header>
+    <!-- Page Header Start-->
+    <?php include 'header.php';?>  
+    <!-- Page Header-End -->
   
 <section class="section-page-title" style="background-image: url(images/page-title-2-1920x305.jpg); background-size: cover;">
         <div class="container">
-          <h1 class="page-title">Holistic Healing Therapies</h1>
+          <h1 class="page-title">Salon Services</h1>
         </div>
       </section>
       <section class="breadcrumbs-custom">
@@ -166,15 +55,13 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2 class="heading-decorate">Why Holistic Healing Therapies from Us?
-                  
+                <h2 class="heading-decorate">Why Pick Us for Salon Services?
               
                 </h2>
-                <p class="big text-gray-800">The mental wellness center at Preet Vihar, Delhi helps you with perfect mental health with ecstatic therapies. Our expert staff heal your soul and inner mind full of positive energy.
-                  
+                <p class="big text-gray-800">The best Gandharva Wellness Studio in Preet Vihar, Delhi can enhance your look. We are not only a salon-shop, but also transform the appearance of a person. Our diverse looks can fill you with confidence.
                   
 </p>
-                <p>We remove all the negative energy from the various natural ways in various sessions. Sound healing, Tarot Reading, and Crystal Healing are some of the ways that can heal your inner pores. Active meditation will also help you to shine your aura with chakra.
+                <p>At Gandharva, the salon means a complete body makeover, including a pedicure and manicure using the latest technology. Our aesthetic studio will also let you feel complete relaxation from the soul to the spirit.
                   
 </p><a class="button button-default-outline" href="https://gandharva/contact_us.html">Book Now</a>
               </div>
@@ -186,16 +73,14 @@
       </section>
       <section class="section section-lg bg-gray-100 text-center">
         <div class="container">
-          <h2> Holistic Healing Services
-            
+          <h2> Salon Assistance
 </h2>
           <div class="divider-lg"></div>
           <div class="row justify-content-center">
             <div class="col-md-10 col-lg-9">
-              <p>The holistic healing wellness centre at Preet Vihar, Delhi                 
+              <p>For a complete identity change with the feel of nature, 
                 
-                <br class="d-none d-sm-inline">enhances your focus and consciousness which can help with mental stress.
-</p>
+<br class="d-none d-sm-inline">you should visit the best salon service provider in Preet Vihar, Delhi.</p>
             </div>
           </div>
           <div class="row icon-modern-list no-gutters">
@@ -223,11 +108,10 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Sound Healing
-</a></h4>
+                <h4 class="box-icon-modern-title"><a href="services.html">Pedicure</a></h4>
                 <div class="divider"></div>
-                <p>With the help of rhythm, harmonics, and chanting you can get rid of chronic pain by theta brain wave frequency. 
-                    
+                <p>Smooth decorating nails and effective pedicure with professional and painless methods can sweep your glamor party.
+                  
 </p>
               </article>
             </div>
@@ -242,11 +126,10 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Craniosacral Therapy
-                  
+                <h4 class="box-icon-modern-title"><a href="services.html">Manicure
 </a></h4>
                 <div class="divider"></div>
-                <p>Gandharva mind therapy helps you to move out from any kind of trauma no matter how old it is. CranioSacral rhythm is the core mechanism behind this.   
+                <p>A soft hand with attractive nails can increase a person's courage in society and having the best salon service in your shopping cart can increase it.
                   
 </p>
               </article>
@@ -261,12 +144,10 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Aura Cleansing
-                  
+                <h4 class="box-icon-modern-title"><a href="services.html">Threading
 </a></h4>
                 <div class="divider"></div>
-                <p>To feel fresh, relaxed and free from depression diseases, book your aura shining session that will also remove your irritation. 
-                  
+                <p>Organic beauty products without any irritation and 100% follicles from the face can brighten you up for parties and meetings.
 </p>
               </article>
             </div>
@@ -284,12 +165,10 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Chakra Balancing
-                  
+                <h4 class="box-icon-modern-title"><a href="services.html">Male Hair Grooming
                 </a></h4>
                 <div class="divider"></div>
-                <p>Clear all the blockages in the chakra and have a peaceful mind with the bonus aid of wealthy mental health.
-                  
+                <p>Transforming your beard with an appropriate facial belief at an ordinary price will surely make you an attractive guy with a professional approach.
                   
 </p>
               </article>
@@ -304,12 +183,10 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Meditation Therapies
-                    
+                <h4 class="box-icon-modern-title"><a href="services.html">Hair Conditioning & Shampoo
 </a></h4>
                 <div class="divider"></div>
-                <p>Nadabrahma, Natraj, and Kundalini poses of mediation will surely provide your soul with a holistic healing treatment at Preet Vihar, Delhi
-                  
+                <p>Shampoo & Conditioning from the expert cosmetologist not only gives you a scalp massage, but also shapes and beautifies your hair.
                   
 </p>
               </article>
@@ -321,12 +198,10 @@
                     <path d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z"></path>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Cord - Cutting
-                  
+                <h4 class="box-icon-modern-title"><a href="services.html">Detaining 
 </a></h4>
                 <div class="divider"></div>
-                <p>Remove all your past toxic attachments and de-chord the negativity and be emotionally strong and regain your true freedom. 
-                  
+                <p>Remove the shackles of a glamorous face obscured by the sun's shadow, just to make it shine in the crowd.
                   
 </p>
               </article>
@@ -389,40 +264,11 @@
           </div>
         </div>
       </section>
-      <!-- Page Footer-->
-      <!-- RD Google Map-->
-      <section class="section rd-google-map rd-google-map__model" data-marker="images/gmap_marker.png" data-marker-active="images/gmap_marker_active.png" data-styles="[{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#e9e9e9&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:29},{&quot;weight&quot;:0.2}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:18}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:21}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dedede&quot;},{&quot;lightness&quot;:21}]},{&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:36},{&quot;color&quot;:&quot;#333333&quot;},{&quot;lightness&quot;:40}]},{&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;},{&quot;lightness&quot;:19}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:17},{&quot;weight&quot;:1.2}]}]" data-zoom="14" data-x="-73.9874068" data-y="40.643180">
-        <ul class="map_locations">
-          <li data-y="40.643180" data-x="-73.9874068">
-            <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</p>
-          </li>
-        </ul>
-      </section>
-  
-
-  <footer class="section bg-default section-xs-type-1 footer-minimal footer-minimal-variant-2">
-    <div class="container">
-      <div class="row row-30 text-center">
-       
-        <div class="col-12">
-          <p class="block-lg">Gandharva was founded to achieve comprehensive human transformation through all three fundamental pillars. Mentally, emotionally and physically enhanced people can shine on a global scale.
-            
-</p>
-        </div>
-        <div class="col-lg-12">
-          <div class="footer-nav">
-            <ul class="rd-navbar-nav">
-              <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="">About</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="">Services</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="">Gallery</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="">Contacts</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
+<!-- Page Footer--> 
+  <!-- RD Google Map-->
+   <!-- Page Footer Start-->
+   <?php include 'footer.php';?>  
+   <!-- Page Footer-End -->
   <section class="bg-gray-100 section-xs text-center">
     <div class="container">
       <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All Rights Reserved</span><span>&nbsp;</span><a href="">Privacy Policy</a></p>

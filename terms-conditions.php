@@ -28,113 +28,10 @@
     </div>
   </div>
   <div class="page">
-    <!-- Page Header-->
-    <header class="section page-header">
-      <!-- RD Navbar-->
-      <div class="rd-navbar-wrap">
-        <nav class="rd-navbar rd-navbar-classic rd-navbar-classic-center" data-layout="rd-navbar-fixed"
-          data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed"
-          data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static"
-          data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px"
-          data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-          <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse">
-            <span></span></div>
-          <div class="rd-navbar-aside-outer rd-navbar-collapse">
-            <div class="rd-navbar-aside">
-              <div class="header-info">
-                <ul class="list-inline list-inline-md">
-                  <li>
-                    <div class="unit unit-spacing-xs align-items-center">
-                      <div class="unit-left font-weight-bold">Call Us:</div>
-                      <div class="unit-body"><a href="tel:#">9810503845</a></div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="unit unit-spacing-xs align-items-center">
-                      <div class="unit-left font-weight-bold">Opening Hours:</div>
-                      <div class="unit-body">Mon-Sun: 10:00am to 7:00pm</div>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-              <div class="social-block">
-                <ul class="list-inline">
-                  <li><a class="icon fa-facebook" href="#"></a></li>
-                  <li><a class="icon fa-twitter" href="#"></a></li>
-                  <li><a class="icon fa-google-plus" href="#"></a></li>
-                  <li><a class="icon fa-vimeo" href="#"></a></li>
-                  <li><a class="icon fa-youtube" href="#"></a></li>
-                  <li><a class="icon fa-pinterest-p" href="#"></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="rd-navbar-main-outer">
-            <div class="rd-navbar-main">
-              <!-- RD Navbar Panel-->
-              <div class="rd-navbar-panel">
-                <!-- RD Navbar Toggle-->
-                <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                <!-- RD Navbar Brand-->
-                <div class="rd-navbar-brand"><a href="index.html"><img src="images/gandharva_logo.png" alt="" /></a>
-                </div>
-              </div>
-              <div class="rd-navbar-main-element">
-                <div class="rd-navbar-nav-wrap">
-                  <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item "><a class="rd-nav-link" href="index.html">Home</a></li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about_us.html">About Us</a></li>
-                    </li>
-                    <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="#">Services</a> -->
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Services</a>
-                      <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Beauty &amp; Grooming</a>
-                          <ul class="rd-menu rd-navbar-dropdown">
-                            <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Beauty Essentials</a></li>
-                            <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Facials</a></li>
-                            <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Semi Permanent Makeup</a>
-                            </li>
-                            <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Makeup</a></li>
-                            <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Men's Grooming</a></li>
-                          </ul>
-                        </li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Skin Care</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Hair Care</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Laser Hair Reduction</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Shaping Up</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Ayurvedic Therapy</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Alternative Therapy</a></li>
-                        <!-- <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Vedic Acupressure Full Body Detox</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Vedic Acupressure Shuddhi Treatment</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="">Revive package</a></li> -->
-                      </ul>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Programs</a>
-                      <!-- <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="salon-services.html">Salon & Makeup</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="skin-care-services.html">Skin Care</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="hair-treatment-services.html">Hair Treatment</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="laser-hair-removal-services.html">Laser Hair Removal</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Ayurveda</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Slimming</a></li>
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Alternative Holistic Healing Therapie</a></li>
-                      </ul> -->
-                    </li>
-                    <li class="rd-nav-brand logos"><a href="index.html"><img src="images/gandharva_logo.png"
-                          alt="" /></a></li><br>
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="#">Recommendation</a></li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="privacy-policy.html">Gallery</a></li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="terms-conditions.html"> Social Media</a></li>
-                  </ul>
-                  </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </nav>
-      </div>
-    </header>
+    <!-- Page Header Start-->
+    <?php include 'header.php';?>  
+    <!-- Page Header-End -->
+
 
     <section class="section-page-title"
       style="background-image: url(./images/terms-conditions.jpg); background-size: cover;">
@@ -291,33 +188,10 @@
   </div>
   </div>
   </section>
-  <!-- Page Footer-->
-  <!-- RD Google Map-->
-  <footer class="section bg-default section-xs-type-1 footer-minimal footer-minimal-variant-2">
-    <div class="container">
-      <div class="row row-30 text-center">
+    <!-- Page Header Start-->
+    <?php include 'footer.php';?>  
+    <!-- Page Header-End -->
 
-        <div class="col-12">
-          <p class="block-lg">Gandharva was founded to achieve comprehensive human transformation through all three
-            fundamental pillars. Mentally, emotionally and physically enhanced people can shine on a global scale.
-          </p>
-        </div>
-        <div class="col-lg-12">
-          <div class="footer-nav">
-            <ul class="rd-navbar-nav">
-              <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Home</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="about_us.html">About</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="l">Services</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="contact_us.html">Contacts</a></li>
-              <li class="rd-nav-item"><a class="rd-nav-link" href="policy.html">Privacy Policy</a></li>
-              <li class="rd-nav-item active"><a class="rd-nav-link" href="terms-conditions.html"> Terms & Conditions</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
   <section class="bg-gray-100 section-xs text-center">
     <div class="container">
       <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All

@@ -20,149 +20,23 @@
     <meta charset="utf-8">
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="js/main.js"></script>
     <link rel="stylesheet" type="text/css"
         href="//fonts.googleapis.com/css?family=Lato:300i,400,400i,700,900%7CMontserrat:400,500,600,700%7CPlayfair+Display:400,700,700i%7CFjalla+One">
     <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/bootstrap.css">
-    <link rel="stylesheet" href="/css/fonts.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-    <!-- header -->
-    <!-- Page Header-->
-    <header class="section page-header">
-        <!-- RD Navbar-->
-        <div class="rd-navbar-wrap">
-            <nav class="rd-navbar rd-navbar-classic rd-navbar-classic-center" data-layout="rd-navbar-fixed"
-                data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed"
-                data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static"
-                data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static"
-                data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px"
-                data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true"
-                data-xxl-stick-up="true">
-                <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1"
-                    data-rd-navbar-toggle=".rd-navbar-collapse">
-                    <span></span>
-                </div>
-                <div class="rd-navbar-aside-outer rd-navbar-collapse">
-                    <div class="rd-navbar-aside">
-                        <div class="header-info">
-                            <ul class="list-inline list-inline-md">
-                                <li>
-                                    <div class="unit unit-spacing-xs align-items-center">
-                                        <div class="unit-left font-weight-bold">Call Us:</div>
-                                        <div class="unit-body"><a href="tel:#">098 1050 3845</a></div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="unit unit-spacing-xs align-items-center">
-                                        <div class="unit-left font-weight-bold">Opening Hours:</div>
-                                        <div class="unit-body">Mon-Sun: 10:00am to 7:00pm</div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="social-block">
-                            <ul class="list-inline">
-                                <li><a class="icon fa-facebook" href="#"></a></li>
-                                <li><a class="icon fa-twitter" href="#"></a></li>
-                                <li><a class="icon fa-google-plus" href="#"></a></li>
-                                <li><a class="icon fa-vimeo" href="#"></a></li>
-                                <li><a class="icon fa-youtube" href="#"></a></li>
-                                <li><a class="icon fa-pinterest-p" href="#"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="rd-navbar-main-outer">
-                    <div class="rd-navbar-main">
-                        <!-- RD Navbar Panel-->
-                        <div class="rd-navbar-panel">
-                            <!-- RD Navbar Toggle-->
-                            <button class="rd-navbar-toggle"
-                                data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                            <!-- RD Navbar Brand-->
-                            <div class="rd-navbar-brand align-items-center text-center"><a href="/index.html"><img
-                                        src="images/gandharva_logo.png" alt="" /></a>
-                            </div>
-                        </div>
-                        <div class="rd-navbar-main-element">
-                            <div class="rd-navbar-nav-wrap">
-                                <ul class="rd-navbar-nav">
-                                    <li class="rd-nav-item "><a class="rd-nav-link" href="/index.html">Home</a></li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="/about_us.html">About Us</a>
-                                    </li>
-                                    </li>
-                                    <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="#">Services</a> -->
-                                    <li class="rd-nav-item"><a class="rd-nav-link"
-                                            href="/services/all-services.html">Services</a>
-                                        <ul class="rd-menu rd-navbar-dropdown">
-                                            <li class="rd-dropdown-item"> <a class="rd-dropdown-link "
-                                                    href="/services/makeup.html">Makeup</a>
-                                                <ul class="rd-menu rd-navbar-dropdown">
-                                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                            href="/services/makeup.html/">Permanent Makeup</a></li>
-                                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                            href="/services/makeup.html">Semi Permanent Makeup</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/alternative-tharapies.html">Alternative
-                                                    Tharapies</a></li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/facials.html">Facials</a>
-                                            </li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/beauty-essentials.html">Beauty
-                                                    Essentials</a></li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/skin-care.html">Skin
-                                                    Care</a></li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/mens-care.html">Men's
-                                                    Care</a></li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/ayurvedic-therapies.html">Ayurvedic
-                                                    Tharapies</a></li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/shaping-up.html">Shaping
-                                                    Up</a></li>
-                                            <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                    href="/services/hair-care.html">Hair Care
-                                                    &amp; Hair Transplant</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="rd-nav-item "><a class="rd-nav-link"
-                                            href="/recomendation.html">Recommendation</a>
-                                    </li>
-                                    <li class="rd-nav-brand logos"><a href="index.html"><img
-                                                src="/images/gandharva_logo.png" alt="" /></a></li><br>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Programs</a>
-                                    </li>
-
-                                    <li class="rd-nav-item"><a class="rd-nav-link"
-                                            href="/privacy-policy.html">Gallery</a></li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="terms-conditions.html"> Social
-                                            Media</a></li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="/contact_us.html">Contact
-                                            Us</a></li>
-                                </ul>
-                                </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </nav>
-        </div>
-    </header>
-    <!-- header end -->
+    <!-- Page Header Start-->
+    <?php include 'header.php';?>  
+    <!-- Page Header-End -->
     <section>
         <div class="container">
             <div class="background-ac">
-                <img src="/images/all-services/all-services.jpg" alt="">
+                <img src="images/all-services/all-services.jpg" alt="">
             </div>
         </div>
     </section>
@@ -192,7 +66,7 @@
                     <div class="all-service  wt-box bg-white">
                         <div class="wrapper">
                             <div class="wt-media">
-                                <img src="/images/all-services/pic05.jpg" alt=""></a>
+                                <img src="images/all-services/pic05.jpg" alt=""></a>
                             </div>
                             <div class="wt-info p-a30 bg-gray">
                                 <h4 class="mt-2 wt-title m-t0 box-icon-modern-title  ">Makeup </a></h4>
@@ -212,7 +86,7 @@
                     <div class="all-service  wt-box bg-white">
                         <div class="wrapper">
                             <div class="wt-media">
-                                <img src="/images/all-services/pic02.jpg" alt=""></a>
+                                <img src="images/all-services/pic02.jpg" alt=""></a>
                             </div>
                             <div class="wt-info p-a30 bg-gray">
                                 <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title "> Alternative Tharapies </a></h4>
@@ -231,7 +105,7 @@
                 <div class="col-md-4 col-sm-4 p-tb15">
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="/images/all-services/pic03.jpg" alt=""></a>
+                            <img src="images/all-services/pic03.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Facials</a></h4>
@@ -250,7 +124,7 @@
                 <div class="col-md-4 col-sm-4 p-tb15">
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="/images/all-services/pic04.jpg" alt=""></a>
+                            <img src="images/all-services/pic04.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Beauty Essentials</a></h4>
@@ -265,7 +139,7 @@
                 <div class="col-md-4 col-sm-4 p-tb15">
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="/images/all-services/pic05.jpg" alt=""></a>
+                            <img src="images/all-services/pic05.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Skin Care </a></h4>
@@ -280,7 +154,7 @@
                 <div class="col-md-4 col-sm-4 p-tb15">
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="/images/all-services/pic02.jpg" alt=""></a>
+                            <img src="images/all-services/pic02.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Men's Care</a></h4>
@@ -298,7 +172,7 @@
                     <!-- <a href="/services/ayurveda-therapies.html"> -->
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="/images/all-services/pic07.jpg" alt="">
+                            <img src="images/all-services/pic07.jpg" alt="">
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Ayurvedic Tharapy</h4>
@@ -315,7 +189,7 @@
                 <div class="col-md-4 col-sm-4 p-tb15">
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="/images/all-services/pic08.jpg" alt=""></a>
+                            <img src="images/all-services/pic08.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Shaping Up</a></h4>
@@ -330,7 +204,7 @@
                 <div class="col-md-4 col-sm-4 p-tb15">
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="/images/all-services/pic04.jpg" alt=""></a>
+                            <img src="images/all-services/pic04.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Hair Care &amp; Hair Transplant </a>
@@ -346,32 +220,10 @@
         </div>
     </div>
     </div>
-    <!-- footer start -->
-    <!-- Page Footer-->
-    <!-- RD Google Map-->
-    <footer class="section bg-default section-xs-type-1 footer-minimal footer-minimal-variant-2">
-        <div class="container">
-            <div class="row row-30 text-center">
-                <!-- <div class="col-12">
-            <p class="block-lg">Gandharva was founded to achieve comprehensive human transformation through all three
-              fundamental pillars. Mentally, emotionally and physically enhanced people can shine on a global scale.
-            </p>
-          </div> -->
-                <div class="col-lg-12">
-                    <div class="footer-nav">
-                        <ul class="rd-navbar-nav">
-                            <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a></li>
-                            <li class="rd-nav-item"><a class="rd-nav-link"
-                                    href="https://gandharvawellness.com/about-us.html">About</a></li>
-                            <li class="rd-nav-item"><a class="rd-nav-link" href="l">Services</a></li>
-                            <li class="rd-nav-item"><a class="rd-nav-link" href="">Gallery</a></li>
-                            <li class="rd-nav-item"><a class="rd-nav-link" href="contact_us.html">Contacts</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+ 
+    <!-- Page Footer Start-->
+    <?php include 'footer.php';?>  
+    <!-- Page Footer-End -->
     <section class="bg-gray-100 section-xs text-center">
         <div class="container">
             <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All
@@ -382,8 +234,8 @@
     <!-- Global Mailform Output-->
     <div class="snackbars" id="form-output-global"></div>
     <!-- Javascript-->
-    <script src="/js/core.min.js"></script>
-    <script src="/js/script.js"></script>
+    <script src="js/core.min.js"></script>
+    <script src="js/script.js"></script>
     <!-- footer  end -->
 </body>
 

@@ -1,11 +1,12 @@
 <!-- Page Title--><!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
 <head>
-  <title>Professional Beauty Salon Services in Preet Vihar, Delhi </title>
-  <meta content="Get great salon products and equipment designed for professional use at Gandharva Wellness Studio. Contact us to take advantage of our fascinating pricing today.
+  <title>Best Hair Treatment & Styling Services in Preet Vihar, Delhi</title>
+  <meta content="Check out the amazing hair treatment services at Gandharva Wellness Studio. We offer a variety of hair treatments to alleviate your hair concerns.
+
 " name="description" />
-  <meta content="salon services, professional salon services" name="keywords" />
-  <link rel="canonical" href="https://gandharvawellness.com/salon-services.html" />
+  <meta content="hair treatment, professional hair services" name="keywords" />
+  <link rel="canonical" href="https://gandharvawellness.com/hair-treatment-services.html" />
   <meta name="robots" content="noindex, nofollow,all" />
   <meta name="author" content="Gandharva"/>
   <meta name="copyright" content="Gandharva" />
@@ -31,85 +32,13 @@
   </div>
 </div>
 <div class="page"> 
-  <!-- Page Header-->
-  <header class="section page-header"> 
-    <!-- RD Navbar-->
-    <div class="rd-navbar-wrap">
-      <nav class="rd-navbar rd-navbar-classic rd-navbar-classic-center" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-        <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
-        <div class="rd-navbar-aside-outer rd-navbar-collapse">
-          <div class="rd-navbar-aside">
-            <div class="header-info">
-              <ul class="list-inline list-inline-md">
-                <li>
-                  <div class="unit unit-spacing-xs align-items-center">
-                    <div class="unit-left font-weight-bold">Call Us:</div>
-                    <div class="unit-body"><a href="tel:#">9810503845</a></div>
-                  </div>
-                </li>
-                <li>
-                  <div class="unit unit-spacing-xs align-items-center">
-                    <div class="unit-left font-weight-bold">Opening Hours:</div>
-                    <div class="unit-body">Mon-Sun: 10:00am to 7:00pm</div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="social-block">
-              <ul class="list-inline">
-                <li><a class="icon fa-facebook" href="#"></a></li>
-                <li><a class="icon fa-twitter" href="#"></a></li>
-                <li><a class="icon fa-google-plus" href="#"></a></li>
-                <li><a class="icon fa-vimeo" href="#"></a></li>
-                <li><a class="icon fa-youtube" href="#"></a></li>
-                <li><a class="icon fa-pinterest-p" href="#"></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="rd-navbar-main-outer">
-          <div class="rd-navbar-main"> 
-            <!-- RD Navbar Panel-->
-            <div class="rd-navbar-panel"> 
-              <!-- RD Navbar Toggle-->
-              <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-              <!-- RD Navbar Brand-->
-              <div class="rd-navbar-brand"><a href="index.html"><img src="images/gandharva_logo.png" alt="" /></a></div>
-            </div>
-            <div class="rd-navbar-main-element">
-              <div class="rd-navbar-nav-wrap">
-                <ul class="rd-navbar-nav">
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Home</a></li>
-                  <li class="rd-nav-item active"><a class="rd-nav-link" href="about_us.html">About Us</a></li>
-                  </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="#">Services</a>
-                    <ul class="rd-menu rd-navbar-dropdown">
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="salon-services.html">Salon & Makeup</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="skin-care-services.html">Skin Care</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="hair-treatment-services.html">Hair Treatment</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="laser-hair-removal-services.html">Laser Hair Removal</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Ayurveda</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Slimming</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Alternative Holistic Healing Therapie</a></li>
-                    </ul>
-                  </li>                 
-                  <li class="rd-nav-brand logos"><a href="index.html"><img src="images/gandharva_logo.png" alt="" /></a></li><br>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="contact_us.html">Contact Us</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="policy.html">Privacy Policy</a></li> 
-                 <li class="rd-nav-item"><a class="rd-nav-link" href="terms-conditions.html"> Terms & Conditions</a></li>
-               
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </div>
-  </header>
+    <!-- Page Header Start-->
+    <?php include 'header.php';?>  
+    <!-- Page Header-End -->
   
 <section class="section-page-title" style="background-image: url(images/page-title-2-1920x305.jpg); background-size: cover;">
         <div class="container">
-          <h1 class="page-title">Salon Services</h1>
+          <h1 class="page-title">Hair Treatment Services</h1>
         </div>
       </section>
       <section class="breadcrumbs-custom">
@@ -125,13 +54,15 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2 class="heading-decorate">Why Pick Us for Salon Services?
+                <h2 class="heading-decorate">Choose Gandharva Hair Treatment - Here’s Why?
+                  
               
                 </h2>
-                <p class="big text-gray-800">The best Gandharva Wellness Studio in Preet Vihar, Delhi can enhance your look. We are not only a salon-shop, but also transform the appearance of a person. Our diverse looks can fill you with confidence.
+                <p class="big text-gray-800">At Gandharva Wellness Studio in Preet Vihar, Delhi, reward yourself with a luxurious hair treatment! We have a lot of experience with hair, therefore we are aware of all the requirements for maintaining healthy and happy-looking hair.
                   
 </p>
-                <p>At Gandharva, the salon means a complete body makeover, including a pedicure and manicure using the latest technology. Our aesthetic studio will also let you feel complete relaxation from the soul to the spirit.
+                <p>As the best hair treatment service in Preet Vihar, Delhi, we give a variety of hair treatments that address the various hair issues you could be experiencing. This guarantees that we are sure that we are the ideal hair treatment for you!
+                  
                   
 </p><a class="button button-default-outline" href="https://gandharva/contact_us.html">Book Now</a>
               </div>
@@ -143,14 +74,15 @@
       </section>
       <section class="section section-lg bg-gray-100 text-center">
         <div class="container">
-          <h2> Salon Assistance
+          <h2>Gandarvas’ Hair Treatments
+            
 </h2>
           <div class="divider-lg"></div>
           <div class="row justify-content-center">
             <div class="col-md-10 col-lg-9">
-              <p>For a complete identity change with the feel of nature, 
-                
-<br class="d-none d-sm-inline">you should visit the best salon service provider in Preet Vihar, Delhi.</p>
+              <p>We have designed some of the best hair treatments thanks to the
+                <br class="d-none d-sm-inline">knowledge we have gained over the years about numerous hair types.
+</p>
             </div>
           </div>
           <div class="row icon-modern-list no-gutters">
@@ -178,9 +110,10 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Pedicure</a></h4>
+                <h4 class="box-icon-modern-title"><a href="services.html">Hair Transplant</a></h4>
                 <div class="divider"></div>
-                <p>Smooth decorating nails and effective pedicure with professional and painless methods can sweep your glamor party.
+                <p>Cosmetic Surgery with no side effects done by skilled doctors will surely build your permanent hair growth to make you more confident. 
+                  
                   
 </p>
               </article>
@@ -196,10 +129,11 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Manicure
+                <h4 class="box-icon-modern-title"><a href="services.html">Wefting
 </a></h4>
                 <div class="divider"></div>
-                <p>A soft hand with attractive nails can increase a person's courage in society and having the best salon service in your shopping cart can increase it.
+                <p>Increase your hair volume and length to wave the hair without any surgery at the best hair treatment service in Preet Vihar, Delhi.
+                  
                   
 </p>
               </article>
@@ -214,10 +148,11 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Threading
+                <h4 class="box-icon-modern-title"><a href="services.html">HairCut & Styling
+                  
 </a></h4>
                 <div class="divider"></div>
-                <p>Organic beauty products without any irritation and 100% follicles from the face can brighten you up for parties and meetings.
+                <p>Let your haircut relay your attitude with skilled hands styling and colouring at the best saloon service in Preet Vihar, Delhi.  
 </p>
               </article>
             </div>
@@ -235,10 +170,12 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Male Hair Grooming
+                <h4 class="box-icon-modern-title"><a href="services.html">Hair Trimming 
+                  
                 </a></h4>
                 <div class="divider"></div>
-                <p>Transforming your beard with an appropriate facial belief at an ordinary price will surely make you an attractive guy with a professional approach.
+                <p>Hair trimming at Gandharva will assure your look as a fitness freak that you can have an extra benefit at Gym.
+                  
                   
 </p>
               </article>
@@ -253,10 +190,11 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Hair Conditioning & Shampoo
+                <h4 class="box-icon-modern-title"><a href="services.html">Ironing
 </a></h4>
                 <div class="divider"></div>
-                <p>Shampoo & Conditioning from the expert cosmetologist not only gives you a scalp massage, but also shapes and beautifies your hair.
+                <p>Straightening your long curly hair for the occasional parties or for permanent flawless without any possible damage can lead you to achieve your dream.
+                  
                   
 </p>
               </article>
@@ -268,10 +206,12 @@
                     <path d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z"></path>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Detaining 
+                <h4 class="box-icon-modern-title"><a href="services.html">Keratin Treatment
+                  
 </a></h4>
                 <div class="divider"></div>
-                <p>Remove the shackles of a glamorous face obscured by the sun's shadow, just to make it shine in the crowd.
+                <p>Naturally, keratin polished hair can lead you to dense frizz and curly hair to give you an attractive look. 
+                  
                   
 </p>
               </article>
@@ -334,31 +274,11 @@
           </div>
         </div>
       </section>
-<!-- Page Footer--> 
+ <!-- Page Footer--> 
   <!-- RD Google Map-->
-  <footer class="section bg-default section-xs-type-1 footer-minimal footer-minimal-variant-2">
-        <div class="container">
-          <div class="row row-30 text-center">
-           
-            <div class="col-12">
-              <p class="block-lg">Gandharva was founded to achieve comprehensive human transformation through all three fundamental pillars. Mentally, emotionally and physically enhanced people can shine on a global scale.
-              </p>
-            </div>
-            <div class="col-lg-12">
-              <div class="footer-nav">
-                <ul class="rd-navbar-nav">
-                  <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="about_us.html">About</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="l">Services</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="contact_us.html">Contacts</a></li>
-				  <li class="rd-nav-item"><a class="rd-nav-link" href="policy.html">Privacy Policy</a></li> 
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="terms-conditions.html"> Terms & Conditions</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
+   <!-- Page Footer Start-->
+   <?php include 'footer.php';?>  
+   <!-- Page Footer-End -->
   <section class="bg-gray-100 section-xs text-center">
     <div class="container">
       <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All Rights Reserved</span><span>&nbsp;</span><a href="">Privacy Policy</a></p>

@@ -1,11 +1,12 @@
-<!DOCTYPE html>
+<!-- Page Title--><!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
 <head>
-  <title>Skin Care Services &amp; Treatments at Affordable Cost</title>
-  <meta content="Find the best skin care services in Preet Vihar, Delhi by Gandharva Wellness Studio. We offer various skin treatments such as anti-acne, anti-aging, facials, dermatology, cosmetics, etc. Call us today to schedule your appointment.
+  <title>Best Laser Hair Removal Services in Preet Vihar, Delhi | 100% Results</title>
+  <meta content="Check out the amazing hair treatment services at Gandharva Wellness Studio. We offer a variety of hair treatments to alleviate your hair concerns.
+
 " name="description" />
-  <meta content="skin care services, skin care treatments, skin care solutions" name="keywords" />
-  <link rel="canonical" href="https://gandharvawellness.com/skin-care-services.html" />
+  <meta content="laser hair removal, professional laser hair reduction service" name="keywords" />
+  <link rel="canonical" href="https://gandharvawellness.com/laser-hair-removal-services.html" />
   <meta name="robots" content="noindex, nofollow,all" />
   <meta name="author" content="Gandharva"/>
   <meta name="copyright" content="Gandharva" />
@@ -31,85 +32,13 @@
   </div>
 </div>
 <div class="page"> 
-  <!-- Page Header-->
-  <header class="section page-header"> 
-    <!-- RD Navbar-->
-    <div class="rd-navbar-wrap">
-      <nav class="rd-navbar rd-navbar-classic rd-navbar-classic-center" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-        <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
-        <div class="rd-navbar-aside-outer rd-navbar-collapse">
-          <div class="rd-navbar-aside">
-            <div class="header-info">
-              <ul class="list-inline list-inline-md">
-                <li>
-                  <div class="unit unit-spacing-xs align-items-center">
-                    <div class="unit-left font-weight-bold">Call Us:</div>
-                    <div class="unit-body"><a href="tel:#">9810503845</a></div>
-                  </div>
-                </li>
-                <li>
-                  <div class="unit unit-spacing-xs align-items-center">
-                    <div class="unit-left font-weight-bold">Opening Hours:</div>
-                    <div class="unit-body">Mon-Sun: 10:00am to 7:00pm</div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="social-block">
-              <ul class="list-inline">
-                <li><a class="icon fa-facebook" href="#"></a></li>
-                <li><a class="icon fa-twitter" href="#"></a></li>
-                <li><a class="icon fa-google-plus" href="#"></a></li>
-                <li><a class="icon fa-vimeo" href="#"></a></li>
-                <li><a class="icon fa-youtube" href="#"></a></li>
-                <li><a class="icon fa-pinterest-p" href="#"></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="rd-navbar-main-outer">
-          <div class="rd-navbar-main"> 
-            <!-- RD Navbar Panel-->
-            <div class="rd-navbar-panel"> 
-              <!-- RD Navbar Toggle-->
-              <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-              <!-- RD Navbar Brand-->
-              <div class="rd-navbar-brand"><a href="index.html"><img src="images/gandharva_logo.png" alt="" /></a></div>
-            </div>
-            <div class="rd-navbar-main-element">
-              <div class="rd-navbar-nav-wrap">
-                <ul class="rd-navbar-nav">
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Home</a></li>
-                  <li class="rd-nav-item active"><a class="rd-nav-link" href="about_us.html">About Us</a></li>
-                  </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="#">Services</a>
-                    <ul class="rd-menu rd-navbar-dropdown">
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="salon-services.html">Salon & Makeup</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="skin-care-services.html">Skin Care</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="hair-treatment-services.html">Hair Treatment</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="laser-hair-removal-services.html">Laser Hair Removal</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Ayurveda</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Slimming</a></li>
-                      <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="#">Alternative Holistic Healing Therapie</a></li>
-                    </ul>
-                  </li>
-                  
-                  <li class="rd-nav-brand logos"><a href="index.html"><img src="images/gandharva_logo.png" alt="" /></a></li><br>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="contact_us.html">Contact Us</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="policy.html">Privacy Policy</a></li> 
-                 <li class="rd-nav-item"><a class="rd-nav-link" href="terms-conditions.html"> Terms & Conditions</a></li>             
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </div>
-  </header>
+    <!-- Page Header Start-->
+    <?php include 'header.php';?>  
+    <!-- Page Header-End -->
   
-<section class="section-page-title" style="background-image: url(/images/all-services/pic09.jpg); background-size: cover;">
+<section class="section-page-title" style="background-image: url(images/page-title-2-1920x305.jpg); background-size: cover;">
         <div class="container">
-          <h1 class="page-title">Skin Care Services</h1>
+          <h1 class="page-title">Laser Hair Removal Services</h1>
         </div>
       </section>
       <section class="breadcrumbs-custom">
@@ -125,27 +54,39 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2 class="heading-decorate">Why Skin-Care from Us?
+                <h2 class="heading-decorate">Why Choose Gandharva Laser Service?
+                  
+                  
+              
                 </h2>
-                <p class="big text-gray-800">Gandharva skin care services will enhance the beauty of your face to make you look more confident. Our team is trying to remove all dark circles and other scars in order to eliminate obstacles in your path.
+                <p class="big text-gray-800">Gandharva Wellness Studio One promises to offer the best laser hair removal at affordable prices in Preet Vihar, Delhi. We take the time to consider different treatment options and provide the best treatment. Our skilled and qualified staff is always glad to serve you with top treatments.
+                  
 </p>
-                <p>Our top notch skin care services in Preet Vihar, Delhi have many benefits for delightful clients that make them feel more positive. Anti-Acne, Anti-Aging, Facials, Dermatology and Cosmetology are some of our best services.
-</p><a class="button button-default-outline" href="#">Book Now</a>
+                <p>We offer the safest and most cutting-edge hair removal treatments performed by skilled therapists under the guidance of qualified doctors who have undergone thorough training. Visit our wellness studio for permanent hair removal with laser technology.
+                  
+                  
+                  
+</p><a class="button button-default-outline" href="https://gandharva/contact_us.html">Book Now</a>
               </div>
             </div>
-            <div class="col-lg-6"><img class="img-shadow" src="images/Why Skin-Care from Us.jpg" alt="" width="568" height="459"/>
+            <div class="col-lg-6"><img class="img-shadow" src="images/service-1-568x459.jpg" alt="" width="568" height="459"/>
             </div>
           </div>
         </div>
       </section>
       <section class="section section-lg bg-gray-100 text-center">
         <div class="container">
-          <h2>Skin Care Solutions</h2>
+          <h2>Laser Hair Reduction Services
+            
+            
+</h2>
           <div class="divider-lg"></div>
           <div class="row justify-content-center">
             <div class="col-md-10 col-lg-9">
-              <p>Gandharva Wellness Studio Skin Treatment in Preet Vihar, Delhi
-<br class="d-none d-sm-inline">is the most effective and affordable price to enhance your natural beauty.</p>
+              <p>To get rid of unwanted stubborn hairs on various body parts,
+                
+                <br class="d-none d-sm-inline">visit premier laser hair removal in Preet Vihar, Delhi.
+</p>
             </div>
           </div>
           <div class="row icon-modern-list no-gutters">
@@ -173,9 +114,12 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Anti-Acne</a></h4>
+                <h4 class="box-icon-modern-title"><a href="services.html">Armpits Hair Removal </a></h4>
                 <div class="divider"></div>
-                <p>We have teamed up with future technology to bring you treatments with DermaPen, dermal fillers, microdermabrasion and chemical peels.
+                <p> Monthly shaving, tweezing and waxing can be very irritating to your armpits. Go sleeveless and don't be shy for the perfect visit.
+                  
+                  
+                  
 </p>
               </article>
             </div>
@@ -190,10 +134,12 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Anti-Ageing 
-</a></h4>
+                <h4 class="box-icon-modern-title"><a href="services.html">Intense Pulsed Light Therapy</a></h4>
                 <div class="divider"></div>
-                <p>Our veterans take your age away with an anti-aging facial, fillers, thread lift and anti-wrinkle treatment to rejuvenate you.
+                <p>Your desire to look younger, reduce signs of aging and have youthful skin with no side effects.
+                  
+                  
+                  
 </p>
               </article>
             </div>
@@ -207,9 +153,13 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Facial</a></h4>
+                <h4 class="box-icon-modern-title"><a href="services.html">Bikini Laser Treatment
+                  
+                  
+</a></h4>
                 <div class="divider"></div>
-                <p>Remove tan and scars with Japanese innovation, Papaya Marshmellow and facial treatments at Gandharva Wellness Studio.
+                <p>Book your premier bikini laser treatment in Preet Vihar, Delhi before planning your beach vacation. All unwanted hair is removed, so you can spend more comfortably.
+                  
 </p>
               </article>
             </div>
@@ -227,9 +177,14 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Dermatology</a></h4>
+                <h4 class="box-icon-modern-title"><a href="services.html">Facial Hair Reduction
+                  
+                </a></h4>
                 <div class="divider"></div>
-                <p>The skincare experts at Preet Vihar, Delhi have been providing the best solution for skin care from the very beginning with skin care products, salicylic peels and Hydra treatments.
+                <p>The unbearable fur on your face will give your career growth a break. Gandharva guarantees side-effect-free treatment regimens for the most attractive faces.
+                  
+                  
+                  
 </p>
               </article>
             </div>
@@ -243,10 +198,13 @@
                     </g>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Cosmetology
+                <h4 class="box-icon-modern-title"><a href="services.html">Full Body Hair Removal
 </a></h4>
                 <div class="divider"></div>
-                <p>Removal of wrinkles, dark skin and unwanted scars with harmless fine needle RF therapy will accelerate new tissue growth.
+                <p>At Gandharva, we take care of your body to achieve this. To do this, we carry out innovative hair removal of the whole body without dangerous consequences.
+                  
+                  
+                  
 </p>
               </article>
             </div>
@@ -257,10 +215,14 @@
                     <path d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z"></path>
                   </svg>
                 </div>
-                <h4 class="box-icon-modern-title"><a href="services.html">Stretch Marks Reduction
+                <h4 class="box-icon-modern-title"><a href="services.html">Pubic Hair Treatment
+                  
 </a></h4>
                 <div class="divider"></div>
-                <p>Regain your confidence with the best skin-care treatment in Preet Vihar, Delhi. Our modern PRP, Laser and lifestyle-changing treatments can lead you to your fav outfits. 
+                <p>After a procedure performed by a specialist in non-surgical hair removal methods, the itching of the genitals has disappeared and you can walk without fear.
+                  
+                  
+                  
 </p>
               </article>
             </div>
@@ -290,7 +252,7 @@
                 <p>We will be glad to see you anytime at our salon.</p><a class="button-link button-link-icon" href="appointment.html">make an appointment  <span class="icon fa-arrow-right icon-primary"></span></a>
               </div>
             </div>
-            <div class="d-none d-lg-block col-lg-4 img-wrap"><img src="images/Schedule.jpg" alt="" width="498" height="688"/>
+            <div class="d-none d-lg-block col-lg-4 img-wrap"><img src="images/home-4-6-498x688.jpg" alt="" width="498" height="688"/>
             </div>
             <div class="col-sm-6 col-lg-4">
               <div class="pricing-box-inner bg-primary context-dark box-right">
@@ -322,31 +284,11 @@
           </div>
         </div>
       </section>
-      <!-- Page Footer--> 
+ <!-- Page Footer--> 
   <!-- RD Google Map-->
-  <footer class="section bg-default section-xs-type-1 footer-minimal footer-minimal-variant-2">
-        <div class="container">
-          <div class="row row-30 text-center">
-           
-            <div class="col-12">
-              <p class="block-lg">Gandharva was founded to achieve comprehensive human transformation through all three fundamental pillars. Mentally, emotionally and physically enhanced people can shine on a global scale.
-              </p>
-            </div>
-            <div class="col-lg-12">
-              <div class="footer-nav">
-                <ul class="rd-navbar-nav">
-                  <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="about_us.html">About</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="l">Services</a></li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="contact_us.html">Contacts</a></li>
-				  <li class="rd-nav-item"><a class="rd-nav-link" href="policy.html">Privacy Policy</a></li> 
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="terms-conditions.html">Terms & Conditions</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
+   <!-- Page Footer Start-->
+   <?php include 'footer.php';?>  
+   <!-- Page Footer-End -->
   <section class="bg-gray-100 section-xs text-center">
     <div class="container">
       <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All Rights Reserved</span><span>&nbsp;</span><a href="">Privacy Policy</a></p>
