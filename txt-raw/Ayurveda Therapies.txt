@@ -1,7 +1,7 @@
 Ayurveda Therapies
 
-//What is it?
-//Ayurveda is not only one of the most ancient sciences but, it’s relevant even today.  Ayurveda, which has nature at its core, helps us comprehend that nature holds the answers to all of our problems with the body and mind. We, the Human species, have broken our bond with nature, and as a result, we feel physical and mental suffering.
+What is it?
+Ayurveda is not only one of the most ancient sciences but, it’s relevant even today.  Ayurveda, which has nature at its core, helps us comprehend that nature holds the answers to all of our problems with the body and mind. We, the Human species, have broken our bond with nature, and as a result, we feel physical and mental suffering.
 
 ********3 types*********
 Pitta Dosha
@@ -217,3 +217,10 @@ Tension and headaches
 Migraines
 Wry neck (Torticollis)
 Rheumatoid Arthritis
+
+
+
+
+
+
+
