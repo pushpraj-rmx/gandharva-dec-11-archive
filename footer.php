@@ -2,9 +2,9 @@
     <div class="container">
       <div class="row row-30 text-center">
         <div class="col-12">
-          <p class="block-lg">Gandharva was founded to achieve comprehensive human transformation through all three
+          <!-- <p class="block-lg">Gandharva was founded to achieve comprehensive human transformation through all three
             fundamental pillars. Mentally, emotionally and physically enhanced people can shine on a global scale.
-          </p>
+          </p> -->
         </div>
         <div class="col-lg-12">
           <div class="footer-nav">

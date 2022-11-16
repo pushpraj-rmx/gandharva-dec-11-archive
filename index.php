@@ -46,20 +46,18 @@
       <div class="swiper-wrapper">
         <div class="swiper-slide">
           <div class="slide-bg swiper-white-filter"
-            style="background-image: url(&quot;images/slide-2-1-1920x720.jpg&quot;)"></div>
+            style="background-image: url(&quot;images/slider-1.jpg&quot;)"></div>
           <div class="swiper-slide-caption section-md">
             <div class="container">
               <div class="row">
                 <div class="col-sm-8 col-lg-7 col-xl-6">
-                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">India’s First
-                    Makeover of Whole Wellness
-                    <br>
-                    Creating Beauty
+                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">
+                    <br> 
+                    <!-- slider content goes here -->
                   </h1>
-                  <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"><strong>Choose from a variety
-                      of popular treatments that have been designed to delight you from head to toe. Your entire
-                      physical makeover with the added bonus of salon help and skincare that will enhance your personal
-                      look to make you look beautiful among your knowns.</strong>
+                  <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"><strong>
+                  <!-- slider content goes here -->
+                  </strong>
                   </p>
                   <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                     data-caption-delay="450">read More</a>
@@ -70,21 +68,17 @@
         </div>
         <div class="swiper-slide">
           <div class="slide-bg swiper-white-filter"
-            style="background-image: url(&quot;images/slide-2-2-1920x720.jpg&quot;)"></div>
+            style="background-image: url(&quot;images/slider-2.jpg&quot;)"></div>
           <div class="swiper-slide-caption section-md">
             <div class="container">
               <div class="row">
                 <div class="col-sm-8 col-lg-7 col-xl-6">
-                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Prepare Yourself
-                    with Mental Well Being
-                    <br>
-                    Haircuts for You
+                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">
+                  <!-- slider content goes here -->
                   </h1>
-                  <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"><strong>Gandharva sound
-                      healing therapies and holistic therapies are on the platform just to build your sanity and prepare
-                      your mind to think ahead - the ultimate pleasure of offering therapies for complete physical and
-                      psychological recovery. Experts empower your brain to make the best decisions and think
-                      clearly.</strong></p>
+                  <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"><strong>
+                    <!-- slider content goes here -->
+                  </strong></p>
                   <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                     data-caption-delay="450">read More</a>
                 </div>
@@ -94,19 +88,38 @@
         </div>
         <div class="swiper-slide">
           <div class="slide-bg swiper-white-filter"
-            style="background-image: url(&quot;images/slide-2-3-1920x720.jpg&quot;)"></div>
+            style="background-image: url(&quot;images/slider-3.jpg&quot;)"></div>
           <div class="swiper-slide-caption section-md">
             <div class="container">
               <div class="row">
                 <div class="col-sm-8 col-lg-7 col-xl-6">
-                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">Strengthen Your
-                    Emotions like Gandharva
-                    <br>
-                    Your Pleasure
+                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">
+                    <!-- slider content goes here -->
                   </h1>
-                  <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"><strong>Gandharva Wellness
-                      Studio makes you emotionally strong and happy by transforming your thoughts into positivity. Our
-                      consultants and experts treat your mind with their confident and optimistic thoughts.</strong>
+                  <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"><strong>
+                    <!-- slider content goes here -->
+                  </strong>
+                  </p>
+                  <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
+                    data-caption-delay="450">read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="slide-bg swiper-white-filter"
+            style="background-image: url(&quot;images/slider-4.jpg&quot;)"></div>
+          <div class="swiper-slide-caption section-md">
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-8 col-lg-7 col-xl-6">
+                  <h1 class="heading-decorate" data-caption-animate="fadeInUp" data-caption-delay="100">
+                    <!-- slider content goes here -->
+                  </h1>
+                  <p class="lead" data-caption-animate="fadeInUp" data-caption-delay="250"><strong>
+                    <!-- slider content goes here -->
+                  </strong>
                   </p>
                   <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                     data-caption-delay="450">read More</a>
