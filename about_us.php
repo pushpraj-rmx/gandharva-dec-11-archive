@@ -3,7 +3,7 @@
 <html class="wide wow-animation" lang="en">
 
 <head>
-  <title>Hair Salon</title>
+  <title>About Us | Gandharva</title>
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport"
     content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -29,7 +29,7 @@
   </div>
   <div class="page">
     <!-- Page Header Start-->
-    <?php include 'header.php';?>  
+    <?php include 'header.php';?>
     <!-- Page Header-End -->
     <section class="section-page-title" style="background-image: url(images/ABOUT-US.jpg); background-size: cover;">
       <div class="container">
@@ -50,20 +50,27 @@
         <div class="row row-50 align-items-lg-center justify-content-xl-between">
           <div class="col-lg-6">
             <div class="block-xs">
-              <h2>Who We Are</h2>
+              <h2>About</h2>
               <div class="divider-lg"></div>
-              <p class="big text-gray-800">As a brand, Gandharva Wellness believes that only by striving to reach our
-                best physical, intellectual, emotional, and spiritual selves, we can live life exhaustively. In this
-                growing world, the recurring demands and Stress placed on us by the consensus-driven, constantly
-                changing world, In this era continuous attention, care, and effort are necessary for wellbeing.
-                Gandharva Wellness provides many personally curated and customized paths to address this necessity!</p>
+              <p class="big text-gray-800">
+                Gandharva Wellness, where heightened awakening of all seven senses allows for inner reflection,
+                cleansing, and equilibrium, the road toward creating harmony between nature and the self . The yogis
+                refer to this as the consciousness of one's surroundings . These traditional practises have been
+                preserved into the modern era at Gandharvas. At its opulent retreat, Gandharva Wellness where these
+                customs invites you to rebalance the way it all originated.
+              </p>
+              <p class="big text-gray-800">Gandharva is used to describe a certain mental quality connected to sattva - the purity and wisdom.
+                This characteristic shows up in love of poetry, dancing, and singing. Given that they were also regarded
+                as healers, Gandharvas are said to have incredible healing abilities. That's what Gandharva Wellness is
+                all about, a holistic approach to healing, not just physical and psychological but emotional as well.
+              </p>
             </div>
             <div class="row row-30">
               <div class="col-md-6">
                 <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
                   <h5>Opening Hours</h5>
                   <ul class="list-xs">
-                    <li> <span class="text-gray-800">Monday-Sunday: </span> 10:00am–7:00pm
+                    <li> <span class="text-gray-800">Monday-Sunday: </span> 10:00am-7:00pm
                     </li>
                   </ul>
                 </div>
@@ -75,7 +82,7 @@
                     <li><span class="text-gray-800">Address: </span> First Floor, 6, Vikas Marg, Block C, Bharti Artist
                       Colony, Preet Vihar, Delhi - 110092
                     </li>
-                    <li><span class="text-gray-800">Offices: </span> 9810503845
+                    <li><span class="text-gray-800">Offices: </span> 098 1050 3845
                     </li>
                   </ul>
                 </div>
@@ -97,11 +104,7 @@
       </div>
     </section>
 
-    <!-- Page Footer-->
-    <!-- RD Google Map-->
-    <!-- Page Header Start-->
-    <?php include 'footer.php';?>  
-    <!-- Page Header-End -->
+    <?php include 'footer.php';?>
 
     <section class="bg-gray-100 section-xs text-center">
       <div class="container">

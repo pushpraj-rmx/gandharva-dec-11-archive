@@ -159,13 +159,11 @@
     </section>
     <section class="section section-lg bg-gray-100 text-center">
       <div class="container">
-        <h2>Our Services</h2>
+        <h2>Our Top Services</h2>
         <div class="divider-lg"></div>
         <div class="row justify-content-center">
           <div class="col-md-10 col-lg-9">
-            <p>Gandharva serves in different types of skin, salon and laser treatments as well as Ayurvedic, mental and
-              emotional treatments with the best qualities.
-
+            <p>Gandharva Wellness Studio offers (XXXX), the best and most cutting-edge luxury therapies. The introduction of the (XXXX) strengthens Gandharva Wellness Studio's status as the go-to spot for urban renewal in the town. Gandharva  provides the best rejuvenation therapies, including aromatherapy massages, traditional ayurvedic treatments, facials, and salon services. These therapies combine old Indian wisdom with modern remedies. We  also offers a retreat for those interested in yoga and meditation, where passionate therapists mix traditional health ideas with cutting-edge therapeutic knowledge to create a new paradigm in holistic therapies.
             </p>
           </div>
         </div>

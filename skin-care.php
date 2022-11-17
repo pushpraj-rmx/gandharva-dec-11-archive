@@ -52,12 +52,13 @@
           <div class="row row-50 align-items-lg-center justify-content-xl-between">
             <div class="col-lg-6">
               <div class="block-xs">
-                <h2 class="heading-decorate">Why Skin-Care from Us?
+                <h2 class="heading-decorate">Skin Care Services
                 </h2>
-                <p class="big text-gray-800">Gandharva skin care services will enhance the beauty of your face to make you look more confident. Our team is trying to remove all dark circles and other scars in order to eliminate obstacles in your path.
+                <p class="big text-gray-800">Gandharva Wellness Studio offers Skin Care Services, the best and most cutting-edge luxury therapies. The introduction of the Skin Care Services strengthens Gandharva Wellness Studio's status as the go-to spot for urban renewal in the town. Gandharva  provides the best rejuvenation therapies, including aromatherapy massages, traditional ayurvedic treatments, facials, and salon services. These therapies combine old Indian wisdom with modern remedies. We  also offers a retreat for those interested in yoga and meditation, where passionate therapists mix traditional health ideas with cutting-edge therapeutic knowledge to create a new paradigm in holistic therapies.
 </p>
-                <p>Our top notch skin care services in Preet Vihar, Delhi have many benefits for delightful clients that make them feel more positive. Anti-Acne, Anti-Aging, Facials, Dermatology and Cosmetology are some of our best services.
-</p><a class="button button-default-outline" href="#">Book Now</a>
+                <!-- <p>Our top notch skin care services in Preet Vihar, Delhi have many benefits for delightful clients that make them feel more positive. Anti-Acne, Anti-Aging, Facials, Dermatology and Cosmetology are some of our best services. -->
+<!-- </p> -->
+<a class="button button-default-outline" href="#">Book Now</a>
               </div>
             </div>
             <div class="col-lg-6"><img class="img-shadow" src="images/Why Skin-Care from Us.jpg" alt="" width="568" height="459"/>

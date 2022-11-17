@@ -86,7 +86,7 @@
                     <div class="all-service  wt-box bg-white">
                         <div class="wrapper">
                             <div class="wt-media">
-                                <img src="images/all-services/pic02.jpg" alt=""></a>
+                                <img src="images/all-services/pic12.jpg" alt=""></a>
                             </div>
                             <div class="wt-info p-a30 bg-gray">
                                 <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title "> Alternative Tharapies </a></h4>
@@ -189,7 +189,7 @@
                 <div class="col-md-4 col-sm-4 p-tb15">
                     <div class="all-service  wt-box bg-white">
                         <div class="wt-media">
-                            <img src="images/all-services/pic08.jpg" alt=""></a>
+                            <img src="images/all-services/pic12.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Shaping Up</a></h4>
