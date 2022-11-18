@@ -96,9 +96,15 @@
                                           <li class="rd-dropdown-item"><a class="rd-dropdown-link"
                                                   href="shaping-up.php">Shaping
                                                   Up</a></li>
-                                          <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                  href="hair-care.php">Hair Care
-                                                  &amp; Hair Transplant</a></li>
+                                                  <li class="rd-dropdown-item"> <a class="rd-dropdown-link "
+                                                    href="makeup.php">Hair</a>
+                                                <ul class="rd-menu rd-navbar-dropdown">
+                                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link"
+                                                            href="hair-care.php">Hair Care</a></li>
+                                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link"
+                                                            href="hair-transplant.php">Hair Transplat</a></li>
+                                                </ul>
+                                            </li>
                                       </ul>
                                   </li>
                                   <li class="rd-nav-item "><a class="rd-nav-link"
