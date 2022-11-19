@@ -65,29 +65,7 @@
                 all about, a holistic approach to healing, not just physical and psychological but emotional as well.
               </p>
             </div>
-            <div class="row row-30">
-              <div class="col-md-6">
-                <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                  <h5>Opening Hours</h5>
-                  <ul class="list-xs">
-                    <li> <span class="text-gray-800">Monday-Sunday: </span> 10:00am-7:00pm
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
-                  <h5>Our Location</h5>
-                  <ul class="list-xs">
-                    <li><span class="text-gray-800">Address: </span> First Floor, 6, Vikas Marg, Block C, Bharti Artist
-                      Colony, Preet Vihar, Delhi - 110092
-                    </li>
-                    <li><span class="text-gray-800">Offices: </span> 098 1050 3845
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+
           </div>
           <div class="col-lg-6">
             <div class="box-images box-images-variant-3">
@@ -100,7 +78,54 @@
               </div>
             </div>
           </div>
+
+
         </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>About Mamta Verma</h2>
+            <div class="divider-lg"></div>
+<p>            Mamta Verma's aspirations, which were the foundation of Gandharva Wellness Studio, have come to fruition. After working in the wellness craft for over 25 years, she began to understand that ultimate health cannot be attained just by putting emphasis on the physical body. This realization of maintaining one's emotional and mental health was the turning point which pursuaded her to take the trip to connect with her own self. She ended up visiting Bagan, Stonehenge, monasteries in Ladakh, pilgrimage sites like Amarnath, and Orkney and Shetland in Scotland as a result of it.</p>
+<p>            The sheer feeling of serenity and peace was something fresh and unusual that her voyage had brought out in her. This further persuaded her to offer services and therapeutic treatments to improve the wellness of the coterie.</p>
+<p>Instead of Sliming can we use the word "Shape Up"?</p>
+          </div>
+          <div class="col-lg-6">
+            <div class="box-images box-images-variant-3">
+              <div class="box-images-item" data-parallax-scroll="{&quot;y&quot;: -20,   &quot;smoothness&quot;: 30 }">
+                <img src="images/mamta-2.jpg" alt="" width="470" height="282" />
+              </div>
+              <div class="box-images-item box-images-without-border"
+                data-parallax-scroll="{&quot;y&quot;: 40,  &quot;smoothness&quot;: 30 }"><img
+                  src="images/mamta-1.jpg" alt="" width="470" height="282" />
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="row row-30">
+          <div class="col-md-6">
+            <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
+              <h5>Opening Hours</h5>
+              <ul class="list-xs">
+                <li> <span class="text-gray-800">Monday-Sunday: </span> 10:00am-7:00pm
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="box-contact-info-with-icon"><span class="icon mdi mdi-clock icon-primary"></span>
+              <h5>Our Location</h5>
+              <ul class="list-xs">
+                <li><span class="text-gray-800">Address: </span> First Floor, 6, Vikas Marg, Block C, Bharti Artist
+                  Colony, Preet Vihar, Delhi - 110092
+                </li>
+                <li><span class="text-gray-800">Offices: </span> 098 1050 3845
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        
       </div>
     </section>
 

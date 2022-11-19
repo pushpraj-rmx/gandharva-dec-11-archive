@@ -88,8 +88,8 @@
                                                   href="skin-care.php">Skin
                                                   Care</a></li>
                                           <li class="rd-dropdown-item"><a class="rd-dropdown-link"
-                                                  href="mens-care.php">Men's
-                                                  Care</a></li>
+                                                  href="mens-grooming.php">Men's
+                                                  Grooming</a></li>
                                           <li class="rd-dropdown-item"><a class="rd-dropdown-link"
                                                   href="ayurvedic-therapies.php">Ayurvedic
                                                   Tharapies</a></li>

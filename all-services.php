@@ -31,7 +31,7 @@
 
 <body>
     <!-- Page Header Start-->
-    <?php include 'header.php';?>  
+    <?php include 'header.php';?>
     <!-- Page Header-End -->
     <section>
         <div class="container">
@@ -43,6 +43,79 @@
 
     <div class="container">
         <div class="section-head text-center">
+            <h3 class="text-uppercase">Gandharva - Services</h3>
+            <div class="wt-separator-outer">
+                <div class="wt-separator style-icon">
+                    <i class="fa fa-leaf text-black"></i>
+                    <span class="separator-left bg-primary"></span>
+                    <span class="separator-right bg-primary"></span>
+                    <p>
+                        Gandharva Wellness Studio offers (XXXX), the best and most cutting-edge luxury therapies. The
+                        introduction of the (XXXX) strengthens Gandharva Wellness Studio's status as the go-to spot for
+                        urban
+                        renewal in the town. Gandharva provides the best rejuvenation therapies, including aromatherapy
+                        massages, traditional ayurvedic treatments, facials, and salon services. These therapies combine
+                        old
+                        Indian wisdom with modern remedies. We also offers a retreat for those interested in yoga and
+                        meditation, where passionate therapists mix traditional health ideas with cutting-edge
+                        therapeutic
+                        knowledge to create a new paradigm in holistic therapies.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h3>Gandharva's Aromatherapy: </h3>
+                            <p>
+                                Our essential trademark oils are abundantly applied to and absorbed through the skin
+                                during this luxurious massage, distributing their calming and healing powers throughout
+                                your body. Get pampered with our specialised selection of all-natural revitalising,
+                                calming, or cleansing blends.
+
+                            </p>
+                        </div>
+                        <div class="col-md-6">
+                            <h3>Gandharva's Gandharva's Facial:</h3>
+                            <p>
+                                Our trademark facial is customised to your skin type using our proprietary line of
+                                organic and scarce hand-picked products, using techniques meant to transcend you to new
+                                heights of relaxation. You will receive a gentle face cleansing, mild exfoliation,
+                                massage, and moisturising. The next step of this incredibly soothing therapy is a
+                                healing mask. While the facemask dries, your hands and feet will receive a light
+                                massage. Take part in this opulent experience to get a harmonious and glowing
+                                complexion. In addition to your treatment, you receive a thorough shoulder rub and a
+                                fresh citrus juice to cleanse you from inside.
+                            </p>
+                        </div>
+                        <div class="col-md-6">
+                            <h3>Gandharva's Sound Healing: </h3>
+                            <p>
+                                For hundreds of years, people from many different cultures have utilised sound therapy
+                                to improve their physical, mental, and spiritual health. The parasympathetic nervous
+                                system is rejuvenated by the complex, profoundly penetrating sound waves produced by the
+                                antique gong and Tibetan bowls. Deep relaxation and healing occur as a result of the
+                                listener being coaxed into an instantaneous theta stage of meditative REM.
+                            </p>
+                        </div>
+                        <div class="col-md-6">
+                            <h3>Gandharva's Past Life Regression: </h3>
+                            <p>
+                                The goal of past life regression is to retrieve what practitioners believe to be
+                                memories of previous incarnations or lifetimes through hypnosis. Regression to a past
+                                life is frequently done in a psychotherapy environment or in quest of a mystical
+                                connection. In order to prevent you from entering a full trance and allow you to recall
+                                some of the regression, Gandharva's past life regression session begins with a
+                                preparatory discussion and is followed by a tranquil meditation.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="section-head text-center">
+
             <h3 class="text-uppercase">All Services</h3>
             <div class="wt-separator-outer">
                 <div class="wt-separator style-icon">
@@ -51,13 +124,6 @@
                     <span class="separator-right bg-primary"></span>
                 </div>
             </div>
-            <p>Gandharva Wellness Studio offers (XXXX), the best and most cutting-edge luxury therapies. The
-                introduction of the (XXXX) strengthens Gandharva Wellness Studio's status as the go-to spot for urban
-                renewal in the town. Gandharva provides the best rejuvenation therapies, including aromatherapy
-                massages, traditional ayurvedic treatments, facials, and salon services. These therapies combine old
-                Indian wisdom with modern remedies. We also offers a retreat for those interested in yoga and
-                meditation, where passionate therapists mix traditional health ideas with cutting-edge therapeutic
-                knowledge to create a new paradigm in holistic therapies.</p>
         </div>
         <div class="section-content all-services">
             <div class="row mb-3">
@@ -70,7 +136,8 @@
                             </div>
                             <div class="wt-info p-a30 bg-gray">
                                 <h4 class="mt-2 wt-title m-t0 box-icon-modern-title  ">Makeup </a></h4>
-                                <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget
+                                    feugiat
                                     rorem
                                     ipsum dolor consectetur Fusce varius . </p>
                                 <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
@@ -89,8 +156,10 @@
                                 <img src="images/all-services/pic12.jpg" alt=""></a>
                             </div>
                             <div class="wt-info p-a30 bg-gray">
-                                <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title "> Alternative Tharapies </a></h4>
-                                <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title "> Alternative Tharapies
+                                    </a></h4>
+                                <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget
+                                    feugiat
                                     rorem
                                     ipsum dolor consectetur Fusce varius . </p>
                                 <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
@@ -109,7 +178,8 @@
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Facials</a></h4>
-                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem
+                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                rorem
                                 ipsum dolor consectetur Fusce varius . </p>
                             <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                                 data-caption-delay="450">read More</a>
@@ -128,7 +198,8 @@
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Beauty Essentials</a></h4>
-                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem
+                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                rorem
                                 ipsum dolor consectetur Fusce varius . </p>
                             <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                                 data-caption-delay="450">read More</a>
@@ -143,7 +214,8 @@
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Skin Care </a></h4>
-                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem
+                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                rorem
                                 ipsum dolor consectetur Fusce varius . </p>
                             <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                                 data-caption-delay="450">read More</a>
@@ -158,7 +230,8 @@
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Men's Care</a></h4>
-                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem
+                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                rorem
                                 ipsum dolor consectetur Fusce varius . </p>
                             <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                                 data-caption-delay="450">read More</a>
@@ -176,7 +249,8 @@
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Ayurvedic Tharapy</h4>
-                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem
+                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                rorem
                                 ipsum dolor consectetur Fusce varius . </p>
                             <a class="button button-default-outline" href="/services/ayurveda-therapies.html"
                                 data-caption-animate="fadeInUp" data-caption-delay="450">read More</a>
@@ -193,7 +267,8 @@
                         </div>
                         <div class="wt-info p-a30 bg-gray">
                             <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Shaping Up</a></h4>
-                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem
+                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                rorem
                                 ipsum dolor consectetur Fusce varius . </p>
                             <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                                 data-caption-delay="450">read More</a>
@@ -207,9 +282,11 @@
                             <img src="images/all-services/pic04.jpg" alt=""></a>
                         </div>
                         <div class="wt-info p-a30 bg-gray">
-                            <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Hair Care &amp; Hair Transplant </a>
+                            <h4 class=" mt-2 wt-title m-t0 box-icon-modern-title"> Hair Care &amp; Hair
+                                Transplant </a>
                             </h4>
-                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat rorem
+                            <p>Lorem ipsum dolor consectetur adipiscing Fusce varius euismod lacus eget feugiat
+                                rorem
                                 ipsum dolor consectetur Fusce varius . </p>
                             <a class="button button-default-outline" href="#" data-caption-animate="fadeInUp"
                                 data-caption-delay="450">read More</a>
@@ -220,9 +297,9 @@
         </div>
     </div>
     </div>
- 
+
     <!-- Page Footer Start-->
-    <?php include 'footer.php';?>  
+    <?php include 'footer.php';?>
     <!-- Page Footer-End -->
     <section class="bg-gray-100 section-xs text-center">
         <div class="container">

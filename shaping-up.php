@@ -3,7 +3,7 @@
 <html class="wide wow-animation" lang="en">
 
 <head>
-  <title>Weight Loss Services Near You | Slimming Center | Quick Weight Loss</title>
+  <title>Shaping Up | Slimming Center | Quick Weight Loss</title>
   <meta
     content="Gandharva Wellness Studio is a well-known weight loss services provider in Preet Vihar, Delhi. We have been in operation for many years and use a 360 degree approach to transform your body and appearance. Contact us to lose weight fast."
     name="description" />
@@ -39,12 +39,12 @@
   </div>
   <div class="page">
     <!-- Page Header Start-->
-    <?php include 'header.php';?>  
+    <?php include 'header.php';?>
     <!-- Page Header-End -->
     <section class="section-page-title"
       style="background-image: url(images/page-title-2-1920x305.jpg); background-size: cover;">
       <div class="container">
-        <h1 class="page-title">Weight Loss Services</h1>
+        <h1 class="page-title">Shaping Up</h1>
       </div>
     </section>
     <section class="breadcrumbs-custom">
@@ -60,25 +60,34 @@
         <div class="row row-50 align-items-lg-center justify-content-xl-between">
           <div class="col-lg-6">
             <div class="block-xs">
-              <h2 class="heading-decorate">Why us for Weight Management?
-
-
-
-
-
+              <h2 class="heading-decorate">Shaping Up
               </h2>
-              <p class="big text-gray-800">Weight loss service in Preet Vihar Delhi is an effective place to manage your
-                weight according to the human chart. Gandharva Wellness Studio takes care of your weight with only
-                nature's treatment. We do not use any medication to maintain your weight.
+              <p class="big text-gray-800">At GANDHARVA, each individual is thoroughly assessed before a customised
+                service bouquet is created with a scientific and all-encompassing approach based on his or her needs. We
+                support you and guide you in your transformational journey and deliver -
 
-
-
+              <ol class="big text-gray-800">
+                <li>
+                  1. Optimal Nutrition for Loss of Pounds and Detox
+                </li> <br>
+                <li>
+                  2. Innovative New Age Technology for Body Firming and Toning
+                </li> <br>
+                <li>
+                  3. Achieving Wellness & Inner Peace with New Age Therapies
+                </li><br>
+                <li>
+                  4. Physical Performance & Personalized Programs for Post-Covid Long-Term Effect Reduction and Immunity
+                  Boosting.
+                </li><br>
+                <li>
+                  5. Active Ageing in order to achieve improved physical and mental health results and to thrive rather
+                  than just survive, one must adopt healthy behaviours on a regular basis.
+                </li><br>
+              </ol>
               </p>
-              <p>Top body contouring service in Preet Vihar, Delhi trims every part according to the needs of your
-                perfect body. Our beautiful studio and stunning surroundings lead you to be art conscious.
-
-
-
+              <p class="big text-gray-800">
+                It's critical to comprehend how wellness is related to health in order to appreciate its significance.
               </p><a class="button button-default-outline" href="https://gandharva/contact_us.html">Book Now</a>
             </div>
           </div>
@@ -90,26 +99,22 @@
     </section>
     <section class="section section-lg bg-gray-100 text-center">
       <div class="container">
-        <h2>Ayurveda Therapies
-
-
-
+        <h2>Explore Our Services
         </h2>
         <div class="divider-lg"></div>
         <div class="row justify-content-center">
           <div class="col-md-10 col-lg-9">
-            <p>Body Contouring Services
-
-
-
-              <br class="d-none d-sm-inline">To lose your weight and get yourselves fat-free, Join Gandharva Wellness
-              Studio’s trimming services. An environmental culture with natural processes will rapid your progress.
-
+            <p>At Gandharva, we support people in all facets of their journey toward wellness. Our strategies are built
+              on 5 main areas for the same:
+            </p>
+            <p>
+              Nutritionally sound eating habits, Ayurvedic therapies, cutting-edge new age technology, overall
+              wellbeing, inner harmony, and physical performance.
             </p>
           </div>
         </div>
         <div class="row icon-modern-list no-gutters">
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="53.948px"
@@ -167,19 +172,21 @@
                   </g>
                 </svg>
               </div>
-              <h4 class="box-icon-modern-title"><a href="services.html">Face Tightening Treatment
+              <h4 class="box-icon-modern-title"><a href="services.html">Healthy Eating
                 </a></h4>
               <div class="divider"></div>
-              <p> At Gandharva, you are treated with Ayurvedic remedies, healthy nutrition, and overall wellness to
-                tighten the skin on your face and prevent it from looking old.
-
-
-
-
+              <p>
+                A team of committed nutritionists carefully assesses each client and creates a custom plan based on
+                their requirements. There are specific food regimens for boosting immunity, promoting wellbeing, weight
+                loss, detoxification, healthy ageing, and post-covid long-term impact relief. At GANDHARVA, we offer a
+                specific program for lifestyle disease victims to assist them lead healthy lives. In order to promote
+                general health and fitness, GANDHARVA provides a comprehensive and scientific programme that aids in the
+                prevention of each of the following medical disorders and aids in the Ayurvedic reversal of some
+                conditions.
               </p>
             </article>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="60px" height="79px"
@@ -197,20 +204,38 @@
                   </g>
                 </svg>
               </div>
-              <h4 class="box-icon-modern-title"><a href="services.html">Waist and Tummy Trim
+              <h4 class="box-icon-modern-title"><a href="services.html">Ayurveda Therapies
                 </a></h4>
               <div class="divider"></div>
-              <p>Exercise leads to getting rid of your fat, but here at Gandharva you can find it in a very ecstatic
-                way.
-
-
-
-
-
+              <p>
+                Ayurveda is not only one of the most ancient sciences, but it’s relevant even today. Ayurveda, which has
+                nature at its core, helps us comprehend that nature holds the answers to all of our problems with the
+                body and mind. We, the Human Species, have broken our bond with nature, and as a result, we feel
+                physical and mental distress.
               </p>
+              <p>Our signature Ayurvedic Therapies include:
+              </p>
+              <li>Shiro Dhara
+              </li>
+              <li>Belly Button Setting
+              </li>
+              <li>Navarakishi
+              </li>
+              <li>Abhyangam
+              </li>
+              <li>Pizhichil
+              </li>
+              <li>Lepam
+              </li>
+              <li>Kati Vasti
+              </li>
+              <li>Janu Vasti
+              </li>
+              <li>Greeva Vasti
+              </li>
             </article>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="68px" height="79px"
@@ -225,21 +250,18 @@
                   </g>
                 </svg>
               </div>
-              <h4 class="box-icon-modern-title"><a href="services.html">Detox Body
-
-
-
+              <h4 class="box-icon-modern-title"><a href="services.html">Aroma Veda Therapy
                 </a></h4>
               <div class="divider"></div>
-              <p>Gandharva detox therapy removes the toxic and wasteful material from the body to decrease the celluloid
-                and helps you be slim.
-
-
-
+              <p>
+                When losing weight, aroma veda therapy helps to tighten the skin and tone the muscles throughout the
+                body. In order to strengthen the connective tissue, remove toxins with the aid of lymphatic drainage
+                massage, and shape the adipose tissue for an even, smooth appearance, anti-cellulite products are
+                applied manually to precise pressure points. Your body can be detoxified with specialised body massage.
               </p>
             </article>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="53px" height="79px"
@@ -266,21 +288,18 @@
                   </g>
                 </svg>
               </div>
-              <h4 class="box-icon-modern-title"><a href="services.html">Techno Ayurveda
-
+              <h4 class="box-icon-modern-title"><a href="services.html">Body Detoxification Therapy
                 </a></h4>
               <div class="divider"></div>
-              <p>Most affordable weight loss service in Preet Vihar, Delhi has a combination of 5 treatments containing
-                MARMA, PEMF and Potli therapy fastens the results by 10 times.
-
-
-
-
+              <p>
+                This therapy combines highly specialised scrubbing salts, reviving mineral packs, and essential oils to
+                promote better circulation, metabolism, and toxin clearance from the body which cleanses your body,
+                reducing incidences of water retention.
 
               </p>
             </article>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="47px" height="80px"
@@ -295,21 +314,18 @@
                   </g>
                 </svg>
               </div>
-              <h4 class="box-icon-modern-title"><a href="services.html">Ultra Cavitation Therapy
-
+              <h4 class="box-icon-modern-title"><a href="services.html">Body Toning & Firming
                 </a></h4>
               <div class="divider"></div>
-              <p>Gandharva weight loss treatments have many low cost gems by turning fat into liquid through innovations
-                that can burn fat through biological processes.
-
-
-
-
-
+              <p>
+                We use specialised equipments to facilitate the procedure. During weight loss, it aids in skin firming,
+                muscle strengthening, toning, and building. By burning calories during muscle contractions, it aids in
+                the removal of extra weight while also enhancing one's health. To shape the body properly and tone the
+                muscles, machine-based toning is offered.
               </p>
             </article>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
@@ -319,18 +335,274 @@
                   </path>
                 </svg>
               </div>
-              <h4 class="box-icon-modern-title"><a href="services.html">Body Firmer
-
+              <h4 class="box-icon-modern-title"><a href="services.html">Spot Reduction Therapy
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                Use Gandharva wellness Studio's Spot Reduction Therapies to shed those extra pounds from your arms,
+                thighs, hips, and abdomen. For targeted inch loss, these treatments are applied to troublesome areas
+                like the back, arms, thighs, hips, and stomach. Long, deep strokes and rolling movements are used
+                throughout the massage, and Lypolaser and a firming gel are then applied for tightening and toning
+                results. It aids in lymphatic system detoxification and circulation improvement. The firming pack makes
+                the muscles more toned and increases skin suppleness. This aids in contouring and firming the physique.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Smart Tight Program
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                Gandharva Wellness Studio introduced this specialised, cutting-edge technology, which uses concentrated
+                materials to remove fat from specific regions. Sessions are held on different days. An anti-cellulite
+                massage is given, followed by a gel wrap and a cellotherm session. This aids in contouring and firming
+                the physique.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Ultra Cavitation Program
 
                 </a></h4>
               <div class="divider"></div>
-              <p>By applying electrical stimulation to dense muscle groups, the muscles are tightened and the body is
-                conditioned.
+              <p>
+                An advanced aesthetic procedure called the Ultra Cavitation Program is relatively new. Utilising cutting
+                edge technology results in intense physical lipolysis (fat cell breakdown), which transforms fat cells
+                into liquid that may subsequently be filtered out naturally by the body. It combines G5, Ultra
+                Cavitation, and the advantages of radio frequency to guarantee that your inches melt away starting with
+                the first session.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Techno-Ayurvedic Treatment
 
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                This cutting-edge therapy aids weight loss and inch loss by fusing the advantages of science and
+                ayurveda. Utilising specialist materials, technology, and Ayurvedic therapy, it combines Abyangam and
+                the 7 in 1 Inch Loss Program to help with blood circulation, fat metabolism, and muscular motions while
+                concentrating on problem areas, resulting in weight loss and increased muscle tone.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Bust Firming
 
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                To help tighten up sagging breasts, we at Gandharva Wellness Studio have developed a specialised therapy
+                to ensure a well-rounded and firm contour. Through physical massage, specially designed products are
+                induced, and a firming programme utilising international technology helps to tighten tissues and
+                encourage fuller, firmer breasts.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Bust Reduction
 
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                Unnaturally huge breasts may result in physical complaints such as neck or back pain. In order to
+                prevent breast sagging and provide optimum shape, Gandharva Wellness Studio offers you a combination of
+                hand massage for bust reduction and a Firming Program using German Technology.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Bust Enhancement
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                Are you self-conscious about wearing a bikini because you have a smaller breast or are you ashamed of
+                how big your bust is? In addition to this, unnaturally huge breasts may also result in physical
+                complaints such as neck or back pain. Gandharva offers you a combination of hand massage for bust
+                reduction and a firming programme that helps to tighten tissues to prevent breast sagging and deliver
+                breasts that are firmer and more elevated. If you've been pining for a bust line that is properly
+                sculpted and proportioned, Gandharva has an all-natural, non-surgical option for you. Herbal products
+                that have been specially made are gently massaged into the breasts. Without adding to your general body
+                weight, the physical massage aids in bringing about the desired result and developing the specific
+                muscles, giving the breasts a fuller, firmer, and more toned shape.
 
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Craniosacral Therapy (CST)
 
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                The gentle hands-on technique known as Craniosacral Therapy (CST) uses a light touch to look at
+                membranes and fluid movements in and around the central nervous system. By removing pain and enhancing
+                health and immunity, reducing central nervous system tension fosters a sense of wellbeing. It may be a
+                treatment for conditions such as migraines and headaches, constipation, irritable bowel syndrome,
+                disturbed sleep patterns, sinusitis, neck pain, fibromyalgia, ear infections, TMJ, trauma recovery, mood
+                disorders such as anxiety or depression, and challenging pregnancies may include it.
+
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Past Life Regression
+
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                The goal of past life regression is to retrieve what practitioners believe to be memories of previous
+                incarnations or lifetimes through hypnosis. Regression to a past life is frequently done in a
+                psychotherapy environment or in quest of a mystical connection. In order to prevent you from entering a
+                full trance and allow you to recall some of the regression, Gandharva's past life regression session
+                begins with a preparatory discussion and is followed by a tranquil meditation.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Conscious Diaphragmatic Breathing
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                Using a deliberate diaphragmatic breath pattern, you are led through a specialised self-alignment
+                procedure. Your breath is connected to, opened up to, and awakened during the process to bring back your
+                natural breath. You gain better balance, health, and vigour as a result. The combination of the oxygen's
+                high vibration energy and the motivational breathwork pattern can greatly increase your electromagnetic
+                frequency (EMF). This will eliminate any remnants of the past from your subconscious thinking. Releases
+                tension, dread, and anxiety. boosts immunity, increases energy levels, offers anti-aging and
+                rejuvenating benefits, and promotes the repair of relationships.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Bio Energy Healing Therapy
+
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                One of the most popular systems among non-conventional therapeutic treatments is bio energy healing. By
+                laying their hands on the troubled body area, the "healer" in this technique draws global life force and
+                transfers it to the "receiver" through their hands. The recovery process often includes counselling and
+                talks that are upbeat and inspirational. ovarian respiration Utilising the respiratory, cellular, and
+                energy systems of the body, ovarian breathing teaches us how to reuse energy. Better vitality, emotional
+                stability, and a slower rate of ageing are all made possible by it.
+              </p>
+            </article>
+          </div>
+          <div class="col-sm-6 col-lg-6">
+            <article class="box-icon-modern modern-variant-2">
+              <div class="icon-modern">
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="79px"
+                  viewbox="0 0 80 79" enable-background="new 0 0 80 79" xml:space="preserve">
+                  <path
+                    d="M57.805,45.6c2.708-0.118,5.171-0.317,7.312-0.671c2.246-0.371,9.083-1.501,9.083-7.008  c0-6.467-15.144-15.711-25.329-18.602c5.837-1.259,8.962-3.659,8.962-7.066C57.833,6.587,48.879,0,37.333,0  c-11.546,0-20.5,6.587-20.5,12.252c0,4.265,4.873,6.961,13.874,7.804c-10.661,2.737-18.937,8.517-18.937,14.38  c0,5.851,8.064,9.06,18.174,10.458C15.756,48.781,0,58.434,0,68.454c0,2.556,0.822,4.662,2.443,6.256  c4.639,4.564,15.223,4.404,28.633,4.209c5.748-0.087,12.165-0.086,17.913,0.001c2.663,0.041,5.215,0.08,7.631,0.08  c9.716,0,17.231-0.624,20.941-4.273c1.62-1.593,2.44-3.698,2.44-6.253c0-4.616-2.601-9.613-7.325-14.07  C68.562,50.524,63.44,47.532,57.805,45.6z M19.135,12.252c0-4.007,7.642-9.953,18.198-9.953c10.556,0,18.198,5.945,18.198,9.953  c0,3.571-6.973,5.79-18.198,5.79C26.108,18.042,19.135,15.824,19.135,12.252z M14.265,34.436c0-5.962,13.784-13.528,29.275-13.528  c8.185,0,28.165,11.163,28.165,17.012c0,1.457-0.725,3.513-6.995,4.549c-4.55,0.753-10.724,0.809-17.842,0.8  c-2.294-0.211-4.618-0.255-6.945-0.125c-0.193,0.011-0.393,0.031-0.59,0.046C24.378,42.646,14.265,39.2,14.265,34.436z  M75.632,72.774c-3.812,3.751-14.373,3.586-26.603,3.406c-2.896-0.045-5.921-0.089-9.029-0.089c-3.086,0-6.088,0.043-8.965,0.087  c-12.263,0.181-22.846,0.339-26.666-3.42c-1.092-1.075-1.624-2.483-1.624-4.303c0-9.877,21.912-21.698,37.334-22.572  c13.606-0.78,24.788,4.925,30.711,10.514c4.109,3.877,6.466,8.279,6.466,12.078C77.256,70.293,76.725,71.7,75.632,72.774z">
+                  </path>
+                </svg>
+              </div>
+              <h4 class="box-icon-modern-title"><a href="services.html">Physical Performance
+
+                </a></h4>
+              <div class="divider"></div>
+              <p>
+                Physical wellbeing is the capacity to uphold a healthy standard of living that enables us to fully
+                participate in our everyday activities without experiencing excessive physical strain or tiredness. It
+                entails taking care of our bodies and realising the important influence that our everyday routines and
+                behaviours have on our general health, wellbeing, and quality of life. Yoga instructors and personal
+                trainers are available at Gandharva Wellness Studio to help you with the asanas (physical postures),
+                pranayama (controlled breathing), and meditation practices that are frequently used in yoga for health
+                benefits. We offer personal training to push boundaries, enhance fitness, boost vitality, and bring the
+                body into optimal health. Visit Gandharva Wellness Studio to receive a personalised health assessment.
               </p>
             </article>
           </div>
@@ -396,7 +668,7 @@
     </section>
     <!-- Page Footer-->
     <!-- RD Google Map-->
-    <section class="section rd-google-map rd-google-map__model" data-marker="images/gmap_marker.png"
+    <!-- <section class="section rd-google-map rd-google-map__model" data-marker="images/gmap_marker.png"
       data-marker-active="images/gmap_marker_active.png"
       data-styles="[{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#e9e9e9&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:29},{&quot;weight&quot;:0.2}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:18}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:21}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dedede&quot;},{&quot;lightness&quot;:21}]},{&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:36},{&quot;color&quot;:&quot;#333333&quot;},{&quot;lightness&quot;:40}]},{&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;},{&quot;lightness&quot;:19}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:17},{&quot;weight&quot;:1.2}]}]"
       data-zoom="14" data-x="-73.9874068" data-y="40.643180">
@@ -405,12 +677,12 @@
           <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</p>
         </li>
       </ul>
-    </section>
+    </section> -->
 
 
-   <!-- Page Footer Start-->
-   <?php include 'footer.php';?>  
-   <!-- Page Footer-End -->
+    <!-- Page Footer Start-->
+    <?php include 'footer.php';?>
+    <!-- Page Footer-End -->
     <section class="bg-gray-100 section-xs text-center">
       <div class="container">
         <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All
