@@ -83,7 +83,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/ayurveda/udwarthanam.svg" alt="">
+                <img src="images/svg/udwarthanam.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
@@ -101,7 +101,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/ayurveda/shiro-dhara.svg" alt="">
+                <img src="images/svg/shiro-dhara.svg" alt="">
               </div>
               <h4 class="box-icon-modern-title">
                 <a href="services.html">DeTan Cleanup </a>
@@ -121,7 +121,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/ayurveda/belly.svg" alt="">
+                <img src="images/svg/belly.svg" alt="">
               </div>
               <h4 class="box-icon-modern-title">
                 <a href="services.html">Organic Fruit Facial
