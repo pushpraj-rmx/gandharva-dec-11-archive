@@ -75,7 +75,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/abhyangam.svg" alt="">
+                <img src="images/svg/vishuddi-detoxification.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
@@ -92,7 +92,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/udwarthanam.svg" alt="">
+                <img src="images/svg/nikhar-beauty-enhancement.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
@@ -109,7 +109,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/udwarthanam.svg" alt="">
+                <img src="images/svg/oorja.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
@@ -124,7 +124,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/udwarthanam.svg" alt="">
+                <img src="images/svg/shoolhari.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
@@ -142,7 +142,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/udwarthanam.svg" alt="">
+                <img src="images/svg/gut-cleansing.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
@@ -159,7 +159,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/udwarthanam.svg" alt="">
+                <img src="images/svg/diabetes.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
@@ -176,7 +176,7 @@
           <div class="col-sm-6 col-lg-6 col-sm-12">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/udwarthanam.svg" alt="">
+                <img src="images/svg/anti-aging.svg" alt="">
 
               </div>
               <h4 class="box-icon-modern-title">
