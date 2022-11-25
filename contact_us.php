@@ -292,13 +292,6 @@
    <!-- Page Footer Start-->
    <?php include 'footer.php';?>  
    <!-- Page Footer-End -->
-    <section class="bg-gray-100 section-xs text-center">
-      <div class="container">
-        <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All
-            Rights Reserved</span><span>&nbsp;</span> <span><a href=""> Privacy Policy</a> </span>| <span> <a
-              href="">Terms &amp; Conditions</a> </span></p>
-      </div>
-    </section>
   </div>
   <!-- Global Mailform Output
   <div class="snackbars" id="form-output-global"></div>

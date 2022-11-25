@@ -8115,7 +8115,9 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-classic-center.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-main, .rd-navbar-classic-center.rd-navbar-static.rd-navbar--is-clone .rd-navbar-main {
-	padding: 2px 0;
+	/* padding: 10px 0; */
+	padding-bottom: 10px;
+	padding-top: 15px;
 }
 
 .rd-navbar-classic-center.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-nav-item > .rd-navbar-submenu, .rd-navbar-classic-center.rd-navbar-static.rd-navbar--is-clone .rd-navbar-nav-item > .rd-navbar-submenu {
@@ -14669,4 +14671,53 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 
 .dtp .right {
 	right: 20px;
+}
+
+.newfooter {
+background-color: white;
+
+}
+.footer-container {
+border-top: solid 1px gray;
+padding-top: 2em;
+border-bottom: solid 1px gray;
+padding-bottom: 4em;
+margin-bottom: 4em;
+}
+.newdiv {
+	padding-right: 5rem;
+	padding-bottom: -1em;
+}
+.newdiv a {
+	color: gray;
+}
+.newdiv-2 {
+	padding-left: 5em;
+}
+.newdiv-3 {
+	padding-left: 3em;
+	padding-right: 0em;
+}
+.newdiv a:hover {
+	color: rgb(163,24,95);
+	font-weight: 900;
+}
+.newdiv h5 {
+	color: rgb(163,24,95);
+}
+.newdiv ul {
+	color: #00aced;
+}
+
+.social-icons {
+	text-align: center;
+	margin-top: -2em;
+	margin-bottom: 5em;
+}
+
+.social-icons a:hover {
+	color: rgb(163,24,95);
+}
+.sm-icon {
+	margin: 1em;
 }

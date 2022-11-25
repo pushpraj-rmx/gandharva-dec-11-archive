@@ -307,7 +307,7 @@
 
               </div>
               <h6 class="box-icon-modern-title">
-                <a href="services.php">6. Acrylic Manicure </a>
+                <a href="services.php">6. Acrylic Manicure</a>
               </h6>
               <div class="divider"></div>
               <p>
@@ -346,7 +346,7 @@
 
                 and lastly you get your nails painted with the colour of your choice.
               </ul>
-              Simple, and excellent if you’re pressed for time. </p>
+              Simple, and excellent if you're pressed for time. </p>
             </article>
           </div>
           </article>
@@ -594,14 +594,7 @@
   <!-- Page Footer Start-->
   <?php include 'footer.php';?>
   <!-- Page Footer-End -->
-  <section class="bg-gray-100 section-xs text-center">
-    <div class="container">
-      <p class="rights">
-        <span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>All Rights
-          Reserved</span><span>&nbsp;</span><a href="">Privacy Policy</a>
-      </p>
-    </div>
-  </section>
+
   </div>
   <!-- Global Mailform Output-->
   <div class="snackbars" id="form-output-global"></div>
