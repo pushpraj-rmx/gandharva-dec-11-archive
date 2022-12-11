@@ -15,7 +15,8 @@
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="format-detection" content="telephone=no">
-  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta name="viewport"
+    content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta charset="utf-8">
   <script src="js/main.js"></script>
@@ -23,12 +24,6 @@
   <!-- Stylesheets-->
   <link rel="stylesheet" type="text/css"
     href="//fonts.googleapis.com/css?family=Lato:300i,400,400i,700,900%7CMontserrat:400,500,600,700%7CPlayfair+Display:400,700,700i%7CFjalla+One">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/fonts.css">
   <link rel="stylesheet" href="css/style.css">
@@ -104,7 +99,7 @@
     </section>
     <section class="section section-lg bg-gray-100 text-center">
       <div class="container">
-        <h2>Explore Our Offerings
+        <h2>Explore Our Services
         </h2>
         <div class="divider-lg"></div>
         <div class="row justify-content-center">
@@ -119,10 +114,10 @@
           </div>
         </div>
         <div class="row icon-modern-list no-gutters">
-          <!-- <div class="col-sm-6 col-lg-6">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="/images/svg/healthy-eating.svg" alt="">
+                <img src="/images/svg/healthy-food.svg" alt="">
               </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Healthy Eating
                 </a></h4>
@@ -137,11 +132,11 @@
                 conditions.
               </p>
             </article>
-          </div> -->
-          <!-- <div class="col-sm-6 col-lg-6">
+          </div>
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-              <img src="images/svg/ayurveda-tharapies.svg" alt="">              </div>
+<img src="images/svg/ayurveda-tharapies.svg" alt="">              </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Ayurveda Therapies
                 </a></h4>
               <div class="divider"></div>
@@ -172,34 +167,11 @@
               <li>Greeva Vasti
               </li>
             </article>
-          </div> -->
-          <div class="col-sm-6 col-lg-6">
-            <article class="box-icon-modern modern-variant-2">
-              <div class="icon-modern">
-                <img src="images/svg/healthy-food.svg" alt="">
-              </div>
-              <h4 class="box-icon-modern-title"><a href="services.html">Healthy Eating
-                </a></h4>
-              <div class="divider"></div>
-              <p>
-                A team of committed nutritionists carefully assesses each client and creates a custom plan based on
-                their requirements. There are specific food regimens for boosting immunity, promoting wellbeing, weight
-                loss, detoxification, healthy ageing, and post-covid long-term impact relief. At GANDHARVA, we offer a
-                specific program for lifestyle disease victims to assist them lead healthy lives. In order to promote
-                general health and fitness, GANDHARVA provides a comprehensive and scientific programme that aids in the
-                prevention of each of the following medical disorders and aids in the Ayurvedic reversal of some
-                conditions.
-              </p>
-            </article>
           </div>
-
-
-          
           <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/aroma-veda.svg" alt="">
-              </div>
+<img src="images/svg/aroma-veda.svg" alt="">              </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Aroma Veda Therapy
                 </a></h4>
               <div class="divider"></div>
@@ -214,8 +186,7 @@
           <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/body-detox.svg" alt="">
-              </div>
+<img src="images/svg/body-detox.svg" alt="">              </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Body Detoxification Therapy
                 </a></h4>
               <div class="divider"></div>
@@ -230,8 +201,7 @@
           <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/body-toning.svg" alt="">
-              </div>
+<img src="images/svg/body-toning.svg" alt="">              </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Body Toning & Firming
                 </a></h4>
               <div class="divider"></div>
@@ -246,7 +216,7 @@
           <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/spot-reduction.svg" alt="">
+<img src="images/svg/spot-reduction.svg" alt="">
               </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Spot Reduction Therapy
                 </a></h4>
@@ -264,7 +234,7 @@
           <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/smart-tight.svg" alt="">
+<img src="images/svg/smart-tight.svg" alt="">
               </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Smart Tight Program
                 </a></h4>
@@ -280,7 +250,7 @@
           <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
-                <img src="images/svg/ultra-cavitation.svg" alt="">
+<img src="images/svg/ultra-cavitation.svg" alt="">
               </div>
               <h4 class="box-icon-modern-title"><a href="services.html">Ultra Cavitation Program
 
@@ -371,7 +341,7 @@
               </p>
             </article>
           </div>
-          <!-- <div class="col-sm-6 col-lg-6">
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
 
@@ -391,8 +361,8 @@
 
               </p>
             </article>
-          </div> -->
-          <!-- <div class="col-sm-6 col-lg-6">
+          </div>
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <img src="images/svg/past-life.svg" alt="">
@@ -409,8 +379,8 @@
                 begins with a preparatory discussion and is followed by a tranquil meditation.
               </p>
             </article>
-          </div> -->
-          <!-- <div class="col-sm-6 col-lg-6">
+          </div>
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <img src="images/svg/conscious-dia.svg" alt="">
@@ -428,8 +398,8 @@
                 rejuvenating benefits, and promotes the repair of relationships.
               </p>
             </article>
-          </div> -->
-          <!-- <div class="col-sm-6 col-lg-6">
+          </div>
+          <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">
                 <img src="images/svg/bio-energy .svg" alt="">
@@ -447,7 +417,7 @@
                 stability, and a slower rate of ageing are all made possible by it.
               </p>
             </article>
-          </div> -->
+          </div>
           <div class="col-sm-6 col-lg-6">
             <article class="box-icon-modern modern-variant-2">
               <div class="icon-modern">

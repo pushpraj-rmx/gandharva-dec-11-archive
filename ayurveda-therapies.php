@@ -4,7 +4,7 @@
 
 <head>
   <title>
-    Alternative Therapies | Effective Treatment
+    Ayurveda Therapies | Effective Treatment
   </title>
   <meta
     content="Ayurveda Therapies is one of the world’s oldest whole-body healing systems. Gandharva's Ayurvedic therapies for stress relief and total body rejuvenation. We offer best facilities for Ayurvedic body treatment therapies."
@@ -51,7 +51,7 @@
           background-image: url(/images/all-services/banner-ayu.png);
           background-size: cover;">
       <div class="container">
-        <h1 class="page-title">Alternative Therapies</h1>
+        <h1 class="page-title">Ayurveda Therapies</h1>
       </div>
     </section>
     <section class="breadcrumbs-custom">
@@ -64,7 +64,7 @@
     </section>
     <section class="section section-lg bg-gray-100 text-center">
       <div class="container">
-        <h2>Alternative Therapies</h2>
+        <h2>Ayurveda Therapies</h2>
         <div class="divider-lg"></div>
         <div class="row justify-content-center">
           <div class="col-md-10 col-lg-9">

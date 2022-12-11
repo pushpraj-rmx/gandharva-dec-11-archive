@@ -19,6 +19,9 @@
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <!-- Stylesheets-->
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300i,400,400i,700,900%7CMontserrat:400,500,600,700%7CPlayfair+Display:400,700,700i%7CFjalla+One">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/fonts.css">
 <link rel="stylesheet" href="css/style.css">
